@@ -183,8 +183,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryin-samsu
 #EXTINF:0 tvg-id="animal_rus" group-title="Hindi Channels",Animal Planet
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-animalplanetin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:0 tvg-id="animal-hd" group-title="Hindi Channels",Animal Planet HD
-https://livetv78692.000webhostapp.com/Animal_Planettv_Hindi%20(1).m3u8
-
+https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 #EXTINF:0 tvg-id="MBC3.net" group-title="kids",MBC 3 HD
 https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="kids",toonami aftermath east
