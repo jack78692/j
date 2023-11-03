@@ -49,7 +49,7 @@ https://livectv.phando.com/8052/chunklist0.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Hindi Channels",PTV HOME
 https://ythls.onrender.com/channel/UCMfwlaPLGMn44BKvHv15yzA.m3u8
 #EXTINF:0 tvg-id="EPIC.in" group-title="Hindi Channels",Epic
-https://epiconvh.s.llnwi.net/epic/master_864.m3u8
+https://epiconvh.s.llnwi.net/epic/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Hindi Channels",Ishaara tv
 https://epiconvh.s.llnwi.net/ishaara/master_480.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Hindi Channels",Manoranjan prime
