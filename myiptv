@@ -2,6 +2,19 @@
 #EXTINF:0 tvg-id="ext" group-title="Watch Movie",five nights at freddy's movie
 https://m3u8v1.playmoviekh.click/m3u8v2/720/653b3309f16f8d0c5a622942/6b1b421737f28aab0b921c9e82511997/d578b870238dfb0c7b39e0bf1933778d/1698923433/1b44dbc0daec8a3d6c16f7e84e85036a.m3u8
 
+
+#EXTINF:0 tvg-id="ext" group-title="Hindi Channels",SET HD
+http://103.132.181.118:82/play/a00h
+
+#EXTINF:0 tvg-id="ZeeTV.uk" group-title="Hindi Channels",Zee TV HD
+http://103.132.181.118:82/play/a00f
+
+#EXTINF:0 tvg-id="StarPlus.uk" group-title="Hindi Channels",Star Plus HD
+http://103.132.181.118:82/play/a00e
+
+#EXTINF:0 tvg-id="Colors.in" group-title="Hindi Channels",Colors HD
+http://103.132.181.118:82/play/a00g
+
 #EXTINF:0 tvg-id="SONYSAB.uk" group-title="Hindi Channels",Sony SAB
 https://madxsia.live/jtv/app/live2f830e8a197a784f1d4c42d97f6008bfaa2e3585ed53d8fbd1cfec1c88e561ba9064428851a7fee574c9656bd95dced57bd3b54bc80a989b37d3028fe7e1c9ff4a0f1ca631bed75f9d643b0efb059e8d/154/Sony_SAB/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Hindi Channels",Sony SAB HD
@@ -32,7 +45,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zing/default/index.m3u8
 https://i.mjh.nz/SamsungTVPlus/INBC1500007PX.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Hindi Channels",Korean TV
 https://i.mjh.nz/SamsungTVPlus/INBC4300008IH.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Hindi Channels",dangal 2
+#EXTINF:0 tvg-id="ext" group-title="Hindi Channels",Dangal 2
 https://livectv.phando.com/8051/chunklist0.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Hindi Channels",Shemaroo Umang
 https://livectv.phando.com/8077/chunklist0.m3u8
@@ -78,6 +91,30 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmolcinema/default/index.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/index.m3u8
 #EXTINF:0 tvg-id="ZeeCinema.in" group-title="Hindi Channels",ZEE CINEMA HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Hindi Channels",&Flix HD
+http://103.132.181.118:82/play/a00x
+#EXTINF:0 tvg-id="Pictures.in" group-title="Hindi Channels",And Pictures
+http://103.132.181.118:82/play/a01c
+#EXTINF:0 tvg-id="ext" group-title="Hindi Channels",And Pictures HD
+http://103.132.181.118:82/play/a01b
+
+#EXTINF:0 tvg-id="ext" group-title="Hindi Channels",Sony Pix HD
+http://103.132.181.118:82/play/a00y
+#EXTINF:0 tvg-id="StarGoldHD.in" group-title="Hindi Channels",Star Gold HD
+http://103.132.181.118:82/play/a00j
+
+#EXTINF:0 tvg-id="SonyMAX.in" group-title="Hindi Channels",Sony MAX HD
+http://103.132.181.118:82/play/a00c
+
+
+#EXTINF:0 tvg-id="ZeeCinema.in" group-title="Hindi Channels",Zee Cinema HD
+http://103.132.181.118:82/play/a00i
+
+
+#EXTINF:0 tvg-id="UTVAction.in" group-title="Hindi Channels",Star Gold Romance
+http://103.132.181.118:82/play/a00m
+
 #EXTINF:0 tvg-id="ext" group-title="Hindi Channels",And Pictures HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Hindi Channels",Colors Cineplex HD
@@ -158,6 +195,11 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoverykids-sam
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Hindi Channels",SONY YAY!
 https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Hindi Channels",Sony Yay
+http://103.132.181.118:82/play/a00q
+
+
 #EXTINF:0 tvg-id="Sonic.in" group-title="Hindi Channels",Sonic Nickelodeon
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8
 #EXTINF:0 tvg-id="nick-jr" group-title="Hindi Channels",nick jr
@@ -176,6 +218,17 @@ https://alitv.livebox.co.in/alitvhls/live.m3u8
 https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Hindi Channels",Discovery Hindi Hd
 https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
+
+#EXTINF:0 tvg-id="animal-hd" group-title="Hindi Channels",Animal Planet HD
+http://103.132.181.118:82/play/a00w
+
+#EXTINF:0 tvg-id="natgeo_hd" group-title="Hindi Channels",NAT GEO HD
+http://103.132.181.118:82/play/a006
+
+#EXTINF:0 tvg-id="discov_rus-hd" group-title="Hindi Channels",Discovery HD
+http://103.132.181.118:82/play/a007
+
+
 #EXTINF:0 tvg-id="ext" group-title="Hindi Channels",DMAX
 https://varun-iptv.netlify.app/m3u/DMAX.m3u8
 #EXTINF:0 tvg-id="discov_sci" group-title="Hindi Channels",Discovery Science
@@ -1197,8 +1250,13 @@ https://i.mjh.nz/PlutoTV/5eceb0d4065c240007688ec6-alt.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="English Movies",Grand Cinema
 https://gcinemahls.wns.live/hls/stream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="English Movies",&Flix HD
-http://103.132.181.118:82/play/a00x
+
+#EXTINF:0 tvg-id="ext" group-title="English Movies",MN+ 
+http://103.132.181.118:82/play/a00t
+
+#EXTINF:0 tvg-id="StarMoviesHD.in" group-title="English Movies",Star Movies HD
+http://103.132.181.118:82/play/a005
+
 #EXTINF:0 tvg-id="ext" group-title="English Movies",Hits Movies
 https://m2.ballnaja.com:8443/HITS_MOVIES/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="English Movies",Hits Movies link1
@@ -8088,70 +8146,24 @@ http://200.37.187.210:8460/play/a012
 #EXTINF:0 tvg-id="ZonaLatina.cl" group-title="English channel test",Zona Latina
 http://200.37.187.210:8460/play/a00l
 
-#EXTINF:0 tvg-id="ext" group-title="Hindi",&Flix HD
-http://103.132.181.118:82/play/a00x
-#EXTINF:0 tvg-id="Pictures.in" group-title="Hindi",And Pictures
-http://103.132.181.118:82/play/a01c
-#EXTINF:0 tvg-id="ext" group-title="Hindi",And Pictures HD
-http://103.132.181.118:82/play/a01b
-#EXTINF:0 tvg-id="animal-hd" group-title="Hindi",Animal Planet HD
-http://103.132.181.118:82/play/a00w
-#EXTINF:0 tvg-id="ext" group-title="Hindi",Color BAngla HD
-http://103.132.181.118:82/play/a008
-#EXTINF:0 tvg-id="Colors.in" group-title="Hindi",Colors HD
-http://103.132.181.118:82/play/a00g
-#EXTINF:0 tvg-id="discov_rus-hd" group-title="Hindi",Discovery HD
-http://103.132.181.118:82/play/a007
-#EXTINF:0 tvg-id="ext" group-title="Hindi",Enter 10 Bangla
-http://103.132.181.118:82/play/a00n
-#EXTINF:0 tvg-id="ext" group-title="Hindi",Jalsha Movie SD
-http://103.132.181.118:82/play/a00o
-#EXTINF:0 tvg-id="JalshaMovies.in" group-title="Hindi",Jalsha Movies HD
-http://103.132.181.118:82/play/a004
-#EXTINF:0 tvg-id="ext" group-title="Hindi",MN+ Movies
-http://103.132.181.118:82/play/a00t
-#EXTINF:0 tvg-id="natgeo_hd" group-title="Hindi",NAT GEO HD
-http://103.132.181.118:82/play/a006
-#EXTINF:0 tvg-id="ext" group-title="Hindi",PIX
-http://103.132.181.118:82/play/a00y
-#EXTINF:0 tvg-id="StarGoldHD.in" group-title="Hindi",STar Gold HD
-http://103.132.181.118:82/play/a00j
-#EXTINF:0 tvg-id="StarMoviesHD.in" group-title="Hindi",STar Movies HD
-http://103.132.181.118:82/play/a005
-#EXTINF:0 tvg-id="ext" group-title="Hindi",Sony AATH
-http://103.132.181.118:82/play/a009
-#EXTINF:0 tvg-id="SonyMAX.in" group-title="Hindi",Sony MAX HD
-http://103.132.181.118:82/play/a00c
-#EXTINF:0 tvg-id="ext" group-title="Hindi",Sony SET HD
-http://103.132.181.118:82/play/a00h
+
+
+
 #EXTINF:0 tvg-id="ext" group-title="Hindi",Sony Sport Ten 2
 http://103.132.181.118:82/play/a00v
 #EXTINF:0 tvg-id="ext" group-title="Hindi",Sony Sport ten 1
 http://103.132.181.118:82/play/a00b
-#EXTINF:0 tvg-id="ext" group-title="Hindi",Sony Yay
-http://103.132.181.118:82/play/a00q
-#EXTINF:0 tvg-id="ext" group-title="Hindi",Star Jalsha HD
-http://103.132.181.118:82/play/a001
-#EXTINF:0 tvg-id="StarPlus.uk" group-title="Hindi",Star Plus HD
-http://103.132.181.118:82/play/a00e
+
+
+
 #EXTINF:0 tvg-id="ext" group-title="Hindi",Star Sport 1 HD
 http://103.132.181.118:82/play/a00a
 #EXTINF:0 tvg-id="ext" group-title="Hindi",Star Sport SEL 1 HD
 http://103.132.181.118:82/play/a00u
 #EXTINF:0 tvg-id="ext" group-title="Hindi",Star Sport SEL 1 HD
 http://103.132.181.118:82/play/a00l
-#EXTINF:0 tvg-id="ext" group-title="Hindi",Sun Bangla
-http://103.132.181.118:82/play/a00s
-#EXTINF:0 tvg-id="UTVAction.in" group-title="Hindi",UTV Action
-http://103.132.181.118:82/play/a00m
-#EXTINF:0 tvg-id="ext" group-title="Hindi",Zee Bangla Cinema
-http://103.132.181.118:82/play/a00d
-#EXTINF:0 tvg-id="ZeeBangla.in" group-title="Hindi",Zee Bangla HD
-http://103.132.181.118:82/play/a00k
-#EXTINF:0 tvg-id="ZeeCinema.in" group-title="Hindi",Zee Cinema HD
-http://103.132.181.118:82/play/a00i
-#EXTINF:0 tvg-id="ZeeTV.uk" group-title="Hindi",Zee Tv HD
-http://103.132.181.118:82/play/a00f
+
+
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",&flix HD
 http://119.152.56.1:8000/play/a03y/index.m3u8
