@@ -176,6 +176,8 @@ https://alitv.livebox.co.in/alitvhls/live.m3u8
 https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Hindi Channels",Discovery Hindi Hd
 https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Hindi Channels",DMAX
+https://varun-iptv.netlify.app/m3u/DMAX.m3u8
 #EXTINF:0 tvg-id="discov_sci" group-title="Hindi Channels",Discovery Science
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoverysciin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:0 tvg-id="discov_rus" group-title="Hindi Channels",Discovery
@@ -183,7 +185,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryin-samsu
 #EXTINF:0 tvg-id="animal_rus" group-title="Hindi Channels",Animal Planet
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-animalplanetin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:0 tvg-id="animal-hd" group-title="Hindi Channels",Animal Planet HD
-https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
+https:\\varun-iptv.netlify.app\m3u\Animal_Planet.m3u8
 #EXTINF:0 tvg-id="MBC3.net" group-title="kids",MBC 3 HD
 https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="kids",toonami aftermath east
