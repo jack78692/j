@@ -136,18 +136,16 @@ https://livectv.phando.com/8055/chunklist0.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Hindi Channels",extream hindi
 https://stmv1.cnarlatam.com/cinehindi/cinehindi/playlist.m3u8
 #EXTINF:0 tvg-id="ZeeAflam.net" group-title="Hindi Channels",Zee Aflam
-https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v4a1/mono.m3u8
-#EXTINF:0 tvg-id="ZeeAflam.net" group-title="Hindi Channels",Zee Aflam
-https:\\weyyak-live.akamaized.net\weyyak_zee_aflam\index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Hindi Channels",B4U Aflam (AR)
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Hindi Channels",B4U Aflam
 http://xtream4.xyz:25461/majide-arabe/wfUzM9NKBq/2514
 #EXTINF:0 tvg-id="ext" group-title="Hindi Channels",MBC Bollywood HD-
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Hindi Channels",B4U Plus HD
+#EXTINF:0 tvg-id="ext" group-title="Hindi Channels",B4U Plus
 https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/59.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Hindi Channels",Colors Cineplex Bollywood
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Hindi Channels",B4U MOVIES (UK)
+#EXTINF:0 tvg-id="ext" group-title="Hindi Channels",B4U MOVIES
 http://144.217.70.181:9587/hin2/B4UMOVIESUK/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:0 tvg-id="ext" group-title="Hindi Channels",South Station
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-southstation-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
@@ -169,7 +167,7 @@ https://livectv.phando.com/8006/chunklist0.m3u8
 https://livectv.phando.com/8063/chunklist0.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Hindi Channels",Bollywood Prime
 https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
-#EXTINF:0 tvg-id="BollywoodClassic.ro" group-title="Hindi Channels",Bollywood Classic
+#EXTINF:0 tvg-id="BollywoodClassic.ro" group-title="Hindi Channels",Bollywood Classic HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 #EXTINF:0 tvg-id="bollywood-hd" group-title="Hindi Channels",Bollywood Hd
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
@@ -214,7 +212,7 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/MTV_HD_Plus_voot_MOB/Fallback/inde
 http://ashrafichannel.livebox.co.in/ashrafivhannelhls/live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Hindi Channels",Ali TV
 https://alitv.livebox.co.in/alitvhls/live.m3u8
-#EXTINF:0 tvg-id="TenCricket.in" group-title="Hindi Channels",Sony Ten 3 Hd
+#EXTINF:0 tvg-id="TenCricket.in" group-title="Hindi Channels",Sony Ten 3 HD
 https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Hindi Channels",Discovery Hindi Hd
 https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
@@ -275,23 +273,23 @@ https://epiconvh.s.llnwi.net/gubbare/master_480.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=36&live=1&app_bundle=com.plexapp.desktop&did=df8e1a36-847d-5096-86a7-3803ed330ede&app_domain=app.plex.tv&app_name=plex&h=691&w=1224&content_title=MorUy57ijWhGe4ixZb_T&content_series=5f123330eca6a20040b328e8&custom4=plex&gdpr=1&device_make=Windows&device_model=Firefox&coppa=1&us_privacy=1---&checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="kids",TG Toon Googles
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37&live=1&app_bundle=com.plexapp.desktop&did=df8e1a36-847d-5096-86a7-3803ed330ede&app_domain=app.plex.tv&app_name=plex&h=691&w=1224&content_title=MorUy57ijWhGe4ixZb_T&content_series=5eea605574085f0040ddc794&custom4=plex&gdpr=1&device_make=Windows&device_model=Firefox&coppa=1&us_privacy=1---&checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="kids",kidoodle tv
+#EXTINF:0 tvg-id="ext" group-title="kids",Kidoodle tv
 https://7c16fcbdbd1b4a74b712c2052303b6bb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_KidoodleTV/playlist.m3u8?ads.wurl_channel=484&ads.wurl_name=KidoodleTV&ads.us_privacy=1---&ads.psid=bb9c17a0-efe0-54bb-b0fc-c9af81b09ceb&ads.targetopt=0&ads.plex_token=8ASSa8Yyj_DzgYNzsgzU&ads.plex_id=5eea605574085f0040ddc79a&ads.ua=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F103.0.0.0%20Safari%2F537.36&ads.app_bundle=com.plexapp.ctv&ads.app_store_url=https%3A%2F%2Fapp.plex.tv&ads.gdpr=0&ads.consent=0&ads.coppa=1&ads.device_type=tv&ads.device_id_type=
 #EXTINF:0 tvg-id="Nicktoons.uk" group-title="kids",nicktoons
 http://89.254.128.5:22280/nicktoons/video.m3u8
 #EXTINF:0 tvg-id="disney" group-title="kids",Disney Channel
 http:\\tv.minhalista.me\live\76MzsZCaAm\factoryiptv\93031.ts
 #EXTINF:0 tvg-id="HungamaTV.in" group-title="kids",Hungama
-http:\\144.217.70.181:9587\hin2\HUNGAMA\tracks-v1a1\mono.m3u8?token=test
-#EXTINF:0 tvg-id="ext" group-title="kids",nicktoons 1
+http://144.217.70.181:9587/hin2/HUNGAMA/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:0 tvg-id="ext" group-title="kids",nicktoons
 http:\\tv.minhalista.me\live\76MzsZCaAm\factoryiptv\93065.ts
-#EXTINF:0 tvg-id="ext" group-title="kids",pluto tv gamer
+#EXTINF:0 tvg-id="ext" group-title="kids",pluto tv Gamer
 https://i.mjh.nz/PlutoTV/5ca7f16c37b88b2694731c79-alt.m3u8
 #EXTINF:0 tvg-id="ext" group-title="kids",Pluto TV Gamer
 https://i.mjh.nz/PlutoTV/5ca7f16c37b88b2694731c79-alt.m3u8
 #EXTINF:0 tvg-id="ext" group-title="kids",Forever Kids
 https://i.mjh.nz/PlutoTV/56171fafada51f8004c4b40f-alt.m3u8
-#EXTINF:0 tvg-id="ext" group-title="kids",forever kids
+#EXTINF:0 tvg-id="ext" group-title="kids",Forever Kids
 https://i.mjh.nz/PlutoTV/56171fafada51f8004c4b40f-alt.m3u8
 #EXTINF:0 tvg-id="ext" group-title="kids",kids movie club
 https://i.mjh.nz/PlutoTV/5db0ad56edc89300090d2ebb-alt.m3u8
@@ -301,13 +299,13 @@ https://i.mjh.nz/PlutoTV/5db0ad56edc89300090d2ebb-alt.m3u8
 https://i.mjh.nz/PlutoTV/60fb01a24795a6000762fe83-alt.m3u8
 #EXTINF:0 tvg-id="ext" group-title="kids",Team Spirit
 https://i.mjh.nz/PlutoTV/60f9ebb06f0b3d000746fbdb-alt.m3u8
-#EXTINF:0 tvg-id="ext" group-title="kids",transformers tv
+#EXTINF:0 tvg-id="ext" group-title="kids",Transformers TV
 https://i.mjh.nz/PlutoTV/60fb053712f22a0007ff14d2-alt.m3u8
 #EXTINF:0 tvg-id="ext" group-title="kids",Transformers
 https://i.mjh.nz/PlutoTV/63d8ed19a9957100086f4d33-alt.m3u8
 #EXTINF:0 tvg-id="ext" group-title="kids",Transformers
 https://i.mjh.nz/PlutoTV/63da36dea995710008727d4d-alt.m3u8
-#EXTINF:0 tvg-id="ext" group-title="kids",totly turtals
+#EXTINF:0 tvg-id="ext" group-title="kids",totally turtles
 https://i.mjh.nz/PlutoTV/5d0c16d686454ead733d08f8-alt.m3u8
 #EXTINF:0 tvg-id="ext" group-title="kids",Transformers TV
 https://i.mjh.nz/PlutoTV/60fb053712f22a0007ff14d2-alt.m3u8
@@ -398,7 +396,7 @@ https://i.mjh.nz/SamsungTVPlus/INBC2800017OC.m3u8
 https://jol.pogocast.xyz:8059/view/hls/xXHVAomIgukbzwv4gsD7-g/1698670555/bbtsp2.m3u8
 #EXTINF:0 tvg-id="TenHD.in" group-title="Sports",Sony Ten 1 HD
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Impect Wrestling
+#EXTINF:0 tvg-id="ext" group-title="Sports",Impact Wrestling
 https://i.mjh.nz/PlutoTV/59b722526996084038c01e1b-alt.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",IMPACT Wrestling
 https://i.mjh.nz/PlutoTV/59b722526996084038c01e1b-alt.m3u8
@@ -406,62 +404,24 @@ https://i.mjh.nz/PlutoTV/59b722526996084038c01e1b-alt.m3u8
 https://i.mjh.nz/PlutoTV/62ea4dadce395f0007086df2-alt.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",Sports18 1
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",astro cricket
+#EXTINF:0 tvg-id="ext" group-title="Sports",Astro Cricket
 https://m2.ballnaja.com:8443/ASTRO_CRICKET/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",ptv sports
-https://tvs2.aynaott.com/Ptvsports/tracks-v1a1/mono.m3u8?hdnts=st=1696602106~exp=1696645306~acl=/*~data=45.61.146.183-WEB~hmac=b91bae55ba62860120b550b6f90dd3d3c52fa23585499aa97fd810a3b4d81290
-#EXTINF:0 tvg-id="ext" group-title="Sports",Star Sports 1 HD 1
-http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2186.ts
-#EXTINF:0 tvg-id="ext" group-title="Sports",Star Sports 1 HD 2
+#EXTINF:0 tvg-id="ext" group-title="Sports",PTV sports
+
+#EXTINF:0 tvg-id="ext" group-title="Hindi Channels",Star Sports 1 Hindi HD 
 http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2232.ts
-#EXTINF:0 tvg-id="ext" group-title="Sports",Star Sports 1 HD 3
+#EXTINF:0 tvg-id="ext" group-title="Sports",Star Sports 1 HD
 http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2456.ts
-#EXTINF:0 tvg-id="ext" group-title="Sports",Star Sports 2 HD 1
+#EXTINF:0 tvg-id="ext" group-title="Sports",Star Sports 2 HD
 http://watchindia.net:8880/live/dharm23/qVir1fHdBn/1069.ts
-#EXTINF:0 tvg-id="ext" group-title="Sports",Star Sports 2 HD 2
+#EXTINF:0 tvg-id="ext" group-title="Sports",Star Sports 2
 http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2163.ts
-#EXTINF:0 tvg-id="ext" group-title="Sports",Star Sports Select 1 HD 1
+#EXTINF:0 tvg-id="ext" group-title="Sports",Star Sports Select 1 HD
 http://watchindia.net:8880/live/dharm23/qVir1fHdBn/1070.ts
-#EXTINF:0 tvg-id="ext" group-title="Sports",Star Sports Select 1 HD 2
-http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2292.ts
 #EXTINF:0 tvg-id="StarSportsSelectHD2.in" group-title="Sports",Star Sports Select 2 HD
 http://watchindia.net:8880/live/dharm23/qVir1fHdBn/1071.ts
-#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sports Cricket 1
-http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2090.ts
-#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sports Cricket 2
-http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2143.ts
-#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="Sports",Sky Sports Main Event
-http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2091.ts
-#EXTINF:0 tvg-id="SkySpPL.uk" group-title="Sports",Sky Sports Premier League
-http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2092.ts
-#EXTINF:0 tvg-id="SkySpFball.uk" group-title="Sports",Sky Sports Football
-http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2093.ts
-#EXTINF:0 tvg-id="SkySpF1.uk" group-title="Sports",Sky Sports F1
-http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2094.ts
-#EXTINF:0 tvg-id="SkySpArena.uk" group-title="Sports",Sky Sports Arena
-http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2095.ts
-#EXTINF:0 tvg-id="SkySpTheOpen.uk" group-title="Sports",Sky Sports Golf
-http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2096.ts
-#EXTINF:0 tvg-id="ext" group-title="Sports",Sony Ten 1 HD 1
-http://watchindia.net:8880/live/dharm23/qVir1fHdBn/1756.ts
-#EXTINF:0 tvg-id="ext" group-title="Sports",Sony Ten 1 HD 2
-http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2215.ts
-#EXTINF:0 tvg-id="TenAction.in" group-title="Sports",Sony Ten 2 HD
-http://watchindia.net:8880/live/dharm23/qVir1fHdBn/1757.ts
-#EXTINF:0 tvg-id="TenCricket.in" group-title="Sports",Sony Ten 3 HD
-http://watchindia.net:8880/live/dharm23/qVir1fHdBn/1758.ts
-#EXTINF:0 tvg-id="ext" group-title="Sports",Sports 18 HD
-http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2423.ts
-#EXTINF:0 tvg-id="FOXSports1.us" group-title="Sports",Fox Sports 1
-http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2421.ts
-#EXTINF:0 tvg-id="DDSports.in" group-title="Sports",DD Sports
-http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2380.ts
-#EXTINF:0 tvg-id="ext" group-title="Sports",Willow HD 1
-http://watchindia.net:8880/live/dharm23/qVir1fHdBn/1067.ts
-#EXTINF:0 tvg-id="ext" group-title="Sports",Willow HD 2
-http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2145.ts
-#EXTINF:0 tvg-id="ext" group-title="Sports",Astro Cricket
-http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2174.ts
+
+
 
 #EXTINF:0 tvg-id="ext" group-title="English Series",British Comedy
 https://i.mjh.nz/PlutoTV/60f870184865da00074210ee-alt.m3u8
