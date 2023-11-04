@@ -31,7 +31,8 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/index.m3u8
 https://madxsia.live/jtv/app/liveb30c252ffcfd7252be5891ced09fd7849b0bc3f03227b6b3146903ba1401a7d541da26dfec2d502aa5e5c024f55c266c6b59979fad19b35a7ce2ad82601312d8f239d8354d751a5f7f81a3868c8e5d21/472/And_TV_HD/index.m3u8
 #EXTINF:0 tvg-id="SonyPal.in" group-title="Hindi Channels",Sony Pal
 https://dai.google.com/linear/hls/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Hindi Channels",Sony Kal
+#EXTINF:0 tvg-id="ext"  group-title="Hindi Channels",Sony Kal
+#EXTIMG: https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Sony_Kal_Logo.jpeg/300px-Sony_Kal_Logo.jpeg
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Hindi Channels",The Q
 https://vg-theqlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-306905/aa9e7a0e-155e-4947-a3f4-2232b363b7ac/2.m3u8?ads.partner=qplay&sessionId=b7021dbc-0a61-4a98-81f1-b3f5d334bc09
