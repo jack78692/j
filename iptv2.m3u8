@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://github.com/mitthu786/tvepg/raw/main/epg.xml.gz"
 #EXTINF:0 tvg-id="ext" group-title="Watch Movie",five nights at freddy's movie
 https://m3u8v1.playmoviekh.click/m3u8v2/720/653b3309f16f8d0c5a622942/6b1b421737f28aab0b921c9e82511997/d578b870238dfb0c7b39e0bf1933778d/1698923433/1b44dbc0daec8a3d6c16f7e84e85036a.m3u8
 
@@ -35,10 +35,10 @@ https://dai.google.com/linear/hls/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Hindi Channels",The Q
 https://vg-theqlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-306905/aa9e7a0e-155e-4947-a3f4-2232b363b7ac/2.m3u8?ads.partner=qplay&sessionId=b7021dbc-0a61-4a98-81f1-b3f5d334bc09
-#EXTINF:0 #EXTINF:0 tvg-id="channel_id" tvg-name="Channel Name" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/e/e8/%E0%A4%A8%E0%A4%9C%E0%A4%BC%E0%A4%BE%E0%A4%B0%E0%A4%BE_%E0%A4%9F%E0%A5%80%E0%A4%B5%E0%A5%80.png" group-title="Hindi Channels",Nazara
+#EXTINF:0 tvg-id="channel_id" tvg-name="Channel Name" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/e/e8/%E0%A4%A8%E0%A4%9C%E0%A4%BC%E0%A4%BE%E0%A4%B0%E0%A4%BE_%E0%A4%9F%E0%A5%80%E0%A4%B5%E0%A5%80.png" group-title="Hindi Channels",Nazara
 https://epiconvh.s.llnwi.net/live/nazara/master_720.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Hindi Channels",Enterr 10
-https://madxsia.live/jtv/app/live7e447b1efc6edf465e82bc222b7bc05e9b2b590fdbf17df91770059ad0dfbf9420d709ca0f2deb6f6d87a0ce91d2fe69a5ced3f9f766a032d18d73638fb7a367ca6007b05ec9248a380e3265bc2bcdc7/485/Enterr_10/index.m3u8
+
 #EXTINF:0 tvg-id="Zing.uk" group-title="Hindi Channels",Zing
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zing/default/index.m3u8
 #EXTINF:0 tvg-id="id-extra" group-title="Hindi Channels",Investigation Discovery
