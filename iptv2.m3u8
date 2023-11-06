@@ -124,19 +124,25 @@ https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
 #EXTINF:0 tvg-id="channel_id" tvg-name="Dhinchaak" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuxyv9XnqLdtp6anP4l8t-UZoTJYyodMiz0flZDjWiLUfRT2Jic7vgE2--v5oTDU1Qegy5_STWSYdagYDr3PGY1L7EMg0bluU4dMWOGZ3PJ5oqyim_E4hoPs-ABea4zW3mBikzIPjFj6QTWeJ0GBDGOZAHMY3pm6VTQteFo5ah-ETuN7ZhK3_T39lp/w320-h251-rw/dhinchaak-channel-logo.jpg" group-title="Hindi Movies", Dhinchaak
 https://livectv.phando.com/8070/chunklist0.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Hindi Movies",B4u Kadak
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://livectv.phando.com/8060/chunklist0.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Hindi Movies",Goldmines
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://livectv.phando.com/8073/chunklist0.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Hindi Movies",Bflix
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://livectv.phando.com/8079/chunklist0.m3u8
 #EXTINF:0 tvg-id="channel_id" tvg-name="Goldmines Movies" tvg-logo="https://the-media-ant.mo.cloudinary.net/uploads/mediaLogos/1694425388051/23%20Goldmines%20Movies.svg?tx=w_350" group-title="Hindi Movies", Goldmines Movies
 https://livectv.phando.com/8072/chunklist0.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Hindi Movies", ZEE ANMOL CINEMA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmolcinema/default/index.m3u8
 #EXTINF:0 tvg-id="ZeeAction.in" group-title="Hindi Movies",ZEE ACTION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:0 tvg-id="ZeeCinema.in" group-title="Hindi Movies",ZEE CINEMA HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/index.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Hindi Movies",&Flix HD
@@ -152,22 +158,25 @@ http://103.132.181.118:82/play/a01b
 #EXTINF:0 tvg-id="ext" group-title="Hindi Movies",Sony Pix HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 http://103.132.181.118:82/play/a00y
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:0 tvg-id="StarGoldHD.in" group-title="Hindi Movies",Star Gold HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 http://103.132.181.118:82/play/a00j
 
 #EXTINF:0 tvg-id="SonyMAX.in" group-title="Hindi Movies",Sony MAX HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 http://103.132.181.118:82/play/a00c
 
 #EXTINF:0 tvg-id="channel_id" tvg-name="Star Gold Romance" tvg-logo="https://tamil.gizbot.com/img/2021/08/stargoldromancechannel-1628004709.jpg" group-title="Hindi Movies", Star Gold Romance
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 http://103.132.181.118:82/play/a00m
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:0 tvg-id="channel_id" tvg-name="Star Gold Thrills" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-gold-thrills-hk.png" group-title="Hindi Movies", Star Gold Thrills
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8?token=test
 
 
 #EXTINF:0 tvg-id="ext" group-title="Hindi Movies",And Pictures HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Hindi Movies",Colors Cineplex HD
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/index.m3u8
@@ -176,8 +185,10 @@ https://prod-sports-north-gm.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fall
 #EXTINF:0 tvg-id="channel_id" tvg-name="Joo Music" tvg-logo="https://www.lyngsat.com/logo/tv/jj/joo_music_pk.png" group-title="Hindi Movies", Joo Music
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:0 tvg-id="StarGold.uk" group-title="Hindi Movies",Star Gold HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:0 tvg-id="ext" group-title="Hindi Movies",Star Gold HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:0 tvg-id="ext" group-title="Hindi Movies",Colors Cineplex Bollywood
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/index.m3u8
@@ -188,12 +199,14 @@ https://livectv.phando.com/8055/chunklist0.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Hindi Movies",extream hindi
 https://stmv1.cnarlatam.com/cinehindi/cinehindi/playlist.m3u8
 #EXTINF:0 tvg-id="ZeeAflam.net" group-title="Hindi Movies",Zee Aflam
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Hindi Movies",B4U Aflam
 http://xtream4.xyz:25461/majide-arabe/wfUzM9NKBq/2514
 #EXTINF:0 tvg-id="ext" group-title="Hindi Movies",MBC Bollywood HD-
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Hindi Movies",B4U Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/59.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Hindi Movies",Colors Cineplex Bollywood
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/index.m3u8
@@ -671,22 +684,27 @@ http://103.132.181.118:82/play/a00t
 http://103.132.181.118:82/play/a005
 
 #EXTINF:0 tvg-id="ext" group-title="English Movies",Hits Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://m2.ballnaja.com:8443/HITS_MOVIES/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="English Movies",Hits Movies link1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://m2.ballnaja.com:8443/HITS_MOVIES/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="English Movies",& Prive HD
 https://madxsia.live/jtv/app/liveb54b73837bd09227b36635191ff62030a6c357999719f8bffa1125507b644cee1f72696f125014be82bd652bfa9243aeaca91460df51dfc3f0ce4ca13da4b10e42adcb698e5c0133c02ee3a89d097986/1349/And_Prive_HD/index.m3u8
 #EXTINF:0 tvg-id="MBCMax.net" group-title="English Movies",MBC Max HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 http://multies.xyz/live/C329CC0FE8134523F06B5253174DD42C/135.m3u8
 #EXTINF:0 tvg-id="ext" group-title="English Movies",MBC Variety HD
 http://darkteam.vip:25461/live/jonar879/LFvOeGXYLyjhk00-/2197.ts
 #EXTINF:0 tvg-id="ext" group-title="English Movies",bizzarromovies
 https://minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="English Movies",Mix Hollywood
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/57.m3u8
 #EXTINF:0 tvg-id="MBC2.net" group-title="English Movies",MBC 2
 http://idlib.link:2082/dolpi1/dolpia1/7147
 #EXTINF:0 tvg-id="MBCAction.net" group-title="English Movies",MBC Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 http://multies.xyz/live/C329CC0FE8134523F06B5253174DD42C/133.m3u8
 #EXTINF:0 tvg-id="ext" group-title="English Movies",MHz Now
 https://i.mjh.nz/SamsungTVPlus/CAAJ34000158F.m3u8
@@ -1939,6 +1957,7 @@ http://38.41.8.1:8000/play/a07v
 #EXTINF:-1,ALBA TV
 http://38.41.8.1:8000/play/a03p
 #EXTINF:-1,AMC HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 http://38.41.8.1:8000/play/a01s
 #EXTINF:-1,AME CH47
 http://38.41.8.1:8000/play/a0al
@@ -1949,6 +1968,7 @@ http://38.41.8.1:8000/play/a00x
 #EXTINF:-1,AXN
 http://38.41.8.1:8000/play/a05x
 #EXTINF:-1,AXN HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 http://38.41.8.1:8000/play/a009
 #EXTINF:-1,AZ Cinema HD
 http://38.41.8.1:8000/play/a020
@@ -2081,6 +2101,7 @@ http://38.41.8.1:8000/play/a069
 #EXTINF:-1,FOX Sports 2 HD
 http://38.41.8.1:8000/play/a01d
 #EXTINF:-1,FX HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 http://38.41.8.1:8000/play/a01h
 #EXTINF:-1,Food Network HD
 http://38.41.8.1:8000/play/a02f
