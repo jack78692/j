@@ -133,10 +133,8 @@ http://103.132.181.118:82/play/a00c
 #EXTINF:0 tvg-id="channel_id" tvg-name="Star Gold Romance" tvg-logo="https://tamil.gizbot.com/img/2021/08/stargoldromancechannel-1628004709.jpg" group-title="Hindi Movies", Star Gold Romance
 http://103.132.181.118:82/play/a00m
 
-#EXTINF:0 tvg-id="channel_id" tvg-name="Star Gold Thrills" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-gold-thrills-hk.png" group-title="Hindi Movies", Star Gold Thrills
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:0 tvg-id="ext" group-title="English Movies",Star Gold Thrills
+#EXTINF:0 tvg-id="channel_id" tvg-name="Star Gold Thrills" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-gold-thrills-hk.png" group-title="Hindi Movies", Star Gold Thrills
 http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8?token=test
 
 
