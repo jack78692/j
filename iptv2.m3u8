@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://github.com/mitthu786/tvepg/raw/main/epg.xml.gz"
+#EXTM3U x-tvg-url="https://github.com/mitthu786/tvepg/raw/main/epg.xml.gz, https://tobalan.github.io/epg.xml.gz, https://github.com/bebawy6/EPG/raw/master/allEPG.xml.gz, https://i.mjh.nz/PlutoTV/all.xml, https://i.mjh.nz/SamsungTVPlus/all.xml"
 #EXTINF:0 tvg-id="ext" group-title="Watch Movie",five nights at freddy's movie
 https://m3u8v1.playmoviekh.click/m3u8v2/720/653b3309f16f8d0c5a622942/6b1b421737f28aab0b921c9e82511997/d578b870238dfb0c7b39e0bf1933778d/1698923433/1b44dbc0daec8a3d6c16f7e84e85036a.m3u8
 
