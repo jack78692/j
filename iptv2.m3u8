@@ -67,7 +67,8 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Rishtey_voot_MOB/Fallback/i
 
 
 #EXTINF:0 tvg-id="ext" group-title="Hindi Entertainment",The Q
-https://vg-theqlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-306905/aa9e7a0e-155e-4947-a3f4-2232b363b7ac/2.m3u8?ads.partner=qplay&sessionId=b7021dbc-0a61-4a98-81f1-b3f5d334bc09
+http://103.223.14.56:8000/play/a0xn/index.m3u8
+
 #EXTINF:0 tvg-id="channel_id" tvg-name="Channel Name" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/e/e8/%E0%A4%A8%E0%A4%9C%E0%A4%BC%E0%A4%BE%E0%A4%B0%E0%A4%BE_%E0%A4%9F%E0%A5%80%E0%A4%B5%E0%A5%80.png" group-title="Hindi Entertainment",Nazara TV
 https://epiconvh.s.llnwi.net/live/nazara/master_720.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Hindi Entertainment", Enterr 10
@@ -280,6 +281,8 @@ https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/
 http://144.217.70.181:9587/hin2/HUNGAMA/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF: tvg-id="ext" group-title="Hindi Music",#### Hindi Music ####
+
+
 
 #EXTINF:0 tvg-id="E24.in" group-title="Hindi Music",E24
 https://livectv.phando.com/8087/chunklist0.m3u8
@@ -497,8 +500,11 @@ http://92.114.85.77:8000/play/a041
 
 #EXTINF: tvg-id="ext" group-title="News",#### News ####
 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Mantavya 24x7 News
+http://103.223.14.56:8000/play/a0nt/index.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="News",India News GJ
-https:\\livectv1.phando.com\8064\chunklist0.m3u8
+
 #EXTINF:0 tvg-id="SandeshNewsDNN.in" group-title="News",Sandesh News
 https:\\livectv1.phando.com\8027\chunklist0.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",TV 9 Gujrat
@@ -1231,21 +1237,22 @@ http://200.37.187.210:8460/play/a00l
 
 
 
-#EXTINF:0 tvg-id="ext" group-title="Hindi",Sony Sport Ten 2
+
+
+
+##### Test Channels ####
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sony Sport Ten 2
 http://103.132.181.118:82/play/a00v
-#EXTINF:0 tvg-id="ext" group-title="Hindi",Sony Sport ten 1
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sony Sport ten 1
 http://103.132.181.118:82/play/a00b
 
-
-
-#EXTINF:0 tvg-id="ext" group-title="Hindi",Star Sport 1 HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",Star Sport 1 HD
 http://103.132.181.118:82/play/a00a
-#EXTINF:0 tvg-id="ext" group-title="Hindi",Star Sport SEL 1 HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",Star Sport SEL 1 HD
 http://103.132.181.118:82/play/a00u
-#EXTINF:0 tvg-id="ext" group-title="Hindi",Star Sport SEL 1 HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",Star Sport SEL 1 HD
 http://103.132.181.118:82/play/a00l
-
-
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",&flix HD
 http://119.152.56.1:8000/play/a03y/index.m3u8
@@ -1555,24 +1562,7 @@ http://92.114.85.79:8000/play/a01w
 http://92.114.85.79:8000/play/a08i
 #EXTINF:0 tvg-id="ext" group-title="Channels",talkSPORT
 http://92.114.85.79:8000/play/a0bx
-#EXTINF:0 tvg-id="ext" group-title="Channels",01 KANAK NEWS
-http://103.223.14.56:8000/play/a0mv/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",02 MANJARI
-http://103.223.14.56:8000/play/a0mw/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",03 ANAADI TV
-http://103.223.14.56:8000/play/a0mx/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",04 K Test TV
-http://103.223.14.56:8000/play/a0my/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",24 Ghanta
-http://103.223.14.56:8000/play/a0od/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",24 taas
-http://103.223.14.56:8000/play/a0oe/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",4TV NEWS
-http://103.223.14.56:8000/play/a0x8/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",6 TV TELANGANA
-http://103.223.14.56:8000/play/a0ta/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",99 Percent
-http://103.223.14.56:8000/play/a0vz/index.m3u8
+
 #EXTINF:0 tvg-id="9XJalwa.in" group-title="Channels",9X JALWA
 http://103.223.14.56:8000/play/a0ug/index.m3u8
 #EXTINF:0 tvg-id="9XJhakaas.in" group-title="Channels",9X JHAKAAS
@@ -1581,46 +1571,20 @@ http://103.223.14.56:8000/play/a0tz/index.m3u8
 http://103.223.14.56:8000/play/a0yj/index.m3u8
 #EXTINF:0 tvg-id="9XM.in" group-title="Channels",9XM
 http://103.223.14.56:8000/play/a0ty/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",A1 TV
-http://103.223.14.56:8000/play/a0x7/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",AASEERVATHAM TV
-http://103.223.14.56:8000/play/a0xx/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",ANB NEWS
-http://103.223.14.56:8000/play/a0y4/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",APN
-http://103.223.14.56:8000/play/a0w3/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",ARGUS
-http://103.223.14.56:8000/play/a0um/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",ARYAN TV
-http://103.223.14.56:8000/play/a0os/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",ASSAM TALKS
-http://103.223.14.56:8000/play/a0oq/index.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",ATRANGII TV
 http://103.223.14.56:8000/play/a0w6/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",AWAKENING TV
-http://103.223.14.56:8000/play/a0oo/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",AYUSH TV
-http://103.223.14.56:8000/play/a0mj/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",B NEWS
-http://103.223.14.56:8000/play/a0vt/index.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",B4U BHOJPURI
 http://103.223.14.56:8000/play/a0xs/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",B4U KADAK
 http://103.223.14.56:8000/play/a0uh/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",BIG TV
-http://103.223.14.56:8000/play/a0xj/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",BS TV
-http://103.223.14.56:8000/play/a0x9/index.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",Balle Balle Non-Stop Music
 http://103.223.14.56:8000/play/a0nw/index.m3u8
-#EXTINF:0 tvg-id="BansalNews.in" group-title="Channels",Bansal News
-http://103.223.14.56:8000/play/a0nr/index.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",Bflix
 http://103.223.14.56:8000/play/a0w9/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bhakti Darpan International
-http://103.223.14.56:8000/play/a0wc/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bharat Samachar
-http://103.223.14.56:8000/play/a0tp/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",CINEMA TV INDIA
 http://103.223.14.56:8000/play/a0u6/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Channel Win
@@ -1647,10 +1611,7 @@ http://103.223.14.56:8000/play/a0md/index.m3u8
 http://103.223.14.56:8000/play/a0m8/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",DD News HD
 http://103.223.14.56:8000/play/a0m7/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",DD SANSAD TV HD
-http://103.223.14.56:8000/play/a0mc/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",DD- SANSAD TV-RAJYA SABHA
-http://103.223.14.56:8000/play/a0m4/index.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",DD-Bharti
 http://103.223.14.56:8000/play/a0m0/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",DD-HD National
@@ -1673,28 +1634,22 @@ http://103.223.14.56:8000/play/a0m2/index.m3u8
 http://103.223.14.56:8000/play/a0ud/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",DHINCHAAK
 http://103.223.14.56:8000/play/a0xm/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",DIVYA
-http://103.223.14.56:8000/play/a0te/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",DNN
-http://103.223.14.56:8000/play/a0o4/index.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",Dil Se Movies
 http://103.223.14.56:8000/play/a0nz/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Dillagiii
 http://103.223.14.56:8000/play/a0tl/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Disha News Channel
-http://103.223.14.56:8000/play/a0y3/index.m3u8
+
 #EXTINF:0 tvg-id="E24.in" group-title="Channels",E24
 http://103.223.14.56:8000/play/a0oj/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",FATEH TV
-http://103.223.14.56:8000/play/a0td/index.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",FGN Channel
 http://103.223.14.56:8000/play/a0o5/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",FILMY HITS
 http://103.223.14.56:8000/play/a0or/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",GOLDMINES MOVIES
 http://103.223.14.56:8000/play/a0xu/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GOODNEWS
-http://103.223.14.56:8000/play/a0xg/index.m3u8
+
 #EXTINF:0 tvg-id="GALATASARAYTV.tr" group-title="Channels",GS TV
 http://103.223.14.56:8000/play/a0o2/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Gangaur
@@ -1703,56 +1658,12 @@ http://103.223.14.56:8000/play/a0o1/index.m3u8
 http://103.223.14.56:8000/play/a0y5/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Goldmines Bollywood
 http://103.223.14.56:8000/play/a0y0/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",HNN
-http://103.223.14.56:8000/play/a0xe/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Hare KRSNA
-http://103.223.14.56:8000/play/a0wa/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Hindi Khabar
-http://103.223.14.56:8000/play/a0tk/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Hope Channel India
-http://103.223.14.56:8000/play/a0xw/index.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",I Love
 http://103.223.14.56:8000/play/a0o7/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",IBC Tamil
-http://103.223.14.56:8000/play/a0uo/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",IBC-24
-http://103.223.14.56:8000/play/a0yi/index.m3u8
-#EXTINF:0 tvg-id="ImayamTv.in" group-title="Channels",IMAYAM TV
-http://103.223.14.56:8000/play/a0mi/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",IND24
-http://103.223.14.56:8000/play/a0uc/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",INDRADHANU
-http://103.223.14.56:8000/play/a0mt/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",INH 24X7
-http://103.223.14.56:8000/play/a0ts/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",ISHWAR BHAKTI
-http://103.223.14.56:8000/play/a0t4/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",India Voice
-http://103.223.14.56:8000/play/a0vv/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",JANTANTRA TV
-http://103.223.14.56:8000/play/a0yl/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",JKL 24x7 NEWS
-http://103.223.14.56:8000/play/a0om/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Jehovah
-http://103.223.14.56:8000/play/a0w7/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Jinvani
-http://103.223.14.56:8000/play/a0ua/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",K NEWS INDIA
-http://103.223.14.56:8000/play/a0xt/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",KALINGA TV
-http://103.223.14.56:8000/play/a0tj/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",KANNADA NAAPTOL
-http://103.223.14.56:8000/play/a0u4/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",KHUSHBOO
-http://103.223.14.56:8000/play/a0ti/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Kerala Vision
-http://103.223.14.56:8000/play/a0xl/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Khabrain Abhi Tak
-http://103.223.14.56:8000/play/a0tr/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",MAIBOLI
-http://103.223.14.56:8000/play/a0ue/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",MALYALAM NAAPTOL
-http://103.223.14.56:8000/play/a0u3/index.m3u8
+
+
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",MANORANJAN GRAND
 http://103.223.14.56:8000/play/a0t6/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",MANORANJAN PRIME
@@ -1765,20 +1676,8 @@ http://103.223.14.56:8000/play/a0u0/index.m3u8
 http://103.223.14.56:8000/play/a0np/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",MH ONE MUSIC
 http://103.223.14.56:8000/play/a0nn/index.m3u8
-#EXTINF:0 tvg-id="MH1News.in" group-title="Channels",MH ONE NEWS
-http://103.223.14.56:8000/play/a0nm/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",MH ONE SHRADDHA
-http://103.223.14.56:8000/play/a0no/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",MK SIX
-http://103.223.14.56:8000/play/a0mn/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",MK TELEVISION
-http://103.223.14.56:8000/play/a0ml/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",MK TUNES
-http://103.223.14.56:8000/play/a0mm/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",MKN News
-http://103.223.14.56:8000/play/a0xr/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Mantavya 24x7 News
-http://103.223.14.56:8000/play/a0nt/index.m3u8
+
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",Movie Plus
 http://103.223.14.56:8000/play/a0nu/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Mtunes+
@@ -1787,522 +1686,28 @@ http://103.223.14.56:8000/play/a0o6/index.m3u8
 http://103.223.14.56:8000/play/a0nv/index.m3u8
 #EXTINF:0 tvg-id="MusicIndia.uk" group-title="Channels",Music India
 http://103.223.14.56:8000/play/a0tv/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",NAAPTOL
-http://103.223.14.56:8000/play/a0u1/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",NAMBIKKAI TV
-http://103.223.14.56:8000/play/a0mg/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",NANDIGHOSHA TV
-http://103.223.14.56:8000/play/a0t8/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",ND24-NEWSDAILY24
-http://103.223.14.56:8000/play/a0t9/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",NEPAL 1
-http://103.223.14.56:8000/play/a0tf/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",NEWS 24 MP/CG
-http://103.223.14.56:8000/play/a0op/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",NEWS LIVE
-http://103.223.14.56:8000/play/a0mp/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",NKR TV
-http://103.223.14.56:8000/play/a0mk/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",NON-STOP SAMACHAR INDIA
-http://103.223.14.56:8000/play/a0y2/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",NORTH_EAST_LIVE
-http://103.223.14.56:8000/play/a0ms/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Naxatra
-http://103.223.14.56:8000/play/a0ns/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Network 10
-http://103.223.14.56:8000/play/a0ui/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",News 1 India
-http://103.223.14.56:8000/play/a0y9/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",News 11 Bharat
-http://103.223.14.56:8000/play/a0u8/index.m3u8
-#EXTINF:0 tvg-id="news24" group-title="Channels",News 24
-http://103.223.14.56:8000/play/a0oi/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",News Nation
-http://103.223.14.56:8000/play/a0yk/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",News State Madhya Pradesh/Chhattisgarh
-http://103.223.14.56:8000/play/a0ym/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",News State Uttarakhand/Uttar Pradesh
-http://103.223.14.56:8000/play/a0yn/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",P T EXPRESS
-http://103.223.14.56:8000/play/a0u7/index.m3u8
+
+
 #EXTINF:0 tvg-id="Pitaara.uk" group-title="Channels",PITAARA
 http://103.223.14.56:8000/play/a0to/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",POPULAR TV
 http://103.223.14.56:8000/play/a0xd/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",PRATHAM KHABAR
-http://103.223.14.56:8000/play/a0ok/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Paras Gold One
-http://103.223.14.56:8000/play/a0w2/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Peace of Mind
-http://103.223.14.56:8000/play/a0o0/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Prajaa Kannada Tv
-http://103.223.14.56:8000/play/a0tt/index.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",Punjabi Hits
 http://103.223.14.56:8000/play/a0yr/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Puthu Yugam
-http://103.223.14.56:8000/play/a0ul/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",RAFTAAR MEDIA
-http://103.223.14.56:8000/play/a0xc/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",RAMDHENU
-http://103.223.14.56:8000/play/a0mr/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",RANG
-http://103.223.14.56:8000/play/a0mq/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",RONGEEN TV
-http://103.223.14.56:8000/play/a0t5/index.m3u8
+
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",Raapchik
 http://103.223.14.56:8000/play/a0o8/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Republic TV Bharat
-http://103.223.14.56:8000/play/a0y1/index.m3u8
-#EXTINF:0 tvg-id="SaamTV.in" group-title="Channels",SAAM TV
-http://103.223.14.56:8000/play/a0tu/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",SADHNA TV
-http://103.223.14.56:8000/play/a0uj/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",SANT WANI
-http://103.223.14.56:8000/play/a0oa/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",SHALINI_TV
-http://103.223.14.56:8000/play/a0mh/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",SHEKINAH
-http://103.223.14.56:8000/play/a0w0/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",SHEMAROO MARATHIBANA
-http://103.223.14.56:8000/play/a0xo/index.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",SHEMAROO TV
 http://103.223.14.56:8000/play/a0uk/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",SHEMAROO UMANG
 http://103.223.14.56:8000/play/a0vw/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",SHREE SIDDHI GROUP
-http://103.223.14.56:8000/play/a0un/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",SIRIKANNADA ALL TIME
-http://103.223.14.56:8000/play/a0xy/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",STUDIO YUVA
-http://103.223.14.56:8000/play/a0yf/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",SUBHAVAARTHA
-http://103.223.14.56:8000/play/a0mf/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",SUBHSANDESH
-http://103.223.14.56:8000/play/a0xf/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",SVBC 2 TAMIL
-http://103.223.14.56:8000/play/a0t1/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",SVBC 3 KANNADA
-http://103.223.14.56:8000/play/a0t2/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",SVBC 4 HINDI
-http://103.223.14.56:8000/play/a0t3/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",SVBC TELUGU
-http://103.223.14.56:8000/play/a0t0/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",SWATANTRA
-http://103.223.14.56:8000/play/a0w5/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Sach Bedhadak
-http://103.223.14.56:8000/play/a0ny/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Sadhna Prime News
-http://103.223.14.56:8000/play/a0xq/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Sanatan TV
-http://103.223.14.56:8000/play/a0wd/index.m3u8
-#EXTINF:0 tvg-id="SangeetBangla.in" group-title="Channels",Sangeet Bangla
-http://103.223.14.56:8000/play/a0tw/index.m3u8
-#EXTINF:0 tvg-id="SangeetBhojpuri.in" group-title="Channels",Sangeet Bhojpuri
-http://103.223.14.56:8000/play/a0tx/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Sarv Dharm Sangam
-http://103.223.14.56:8000/play/a0xp/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Satya
-http://103.223.14.56:8000/play/a0wb/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Sharnam TV
-http://103.223.14.56:8000/play/a0nx/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Studio One Plus
-http://103.223.14.56:8000/play/a0vx/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Subharti
-http://103.223.14.56:8000/play/a0y7/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Sudarshan
-http://103.223.14.56:8000/play/a0tq/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Swaraj Express SMBC
-http://103.223.14.56:8000/play/a0w1/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TAAZA TV
-http://103.223.14.56:8000/play/a0w8/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TAMIL NAAPTOL
-http://103.223.14.56:8000/play/a0u2/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",THE Q
-http://103.223.14.56:8000/play/a0xn/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",THENDREL
-http://103.223.14.56:8000/play/a0y6/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TRIBE PLUS
-http://103.223.14.56:8000/play/a0xb/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TRIBE TV
-http://103.223.14.56:8000/play/a0xa/index.m3u8
-#EXTINF:0 tvg-id="Tv100.tr" group-title="Channels",TV 100
-http://103.223.14.56:8000/play/a0vu/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV9 Bangla
-http://103.223.14.56:8000/play/a0yg/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV9 Tamil
-http://103.223.14.56:8000/play/a0yh/index.m3u8
+
+
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",Tehzeeb TV
 http://103.223.14.56:8000/play/a0o9/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Telugu Naaptol
-http://103.223.14.56:8000/play/a0tm/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",UTKRISTH NEWS RAJSTHAN
-http://103.223.14.56:8000/play/a0xi/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",UTKRISTH NEWS UP & UK
-http://103.223.14.56:8000/play/a0xh/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",VAANAVIL TV
-http://103.223.14.56:8000/play/a0xz/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",VISTARA NEWS
-http://103.223.14.56:8000/play/a0up/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",WOW CINEMA ONE
-http://103.223.14.56:8000/play/a0u5/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",ZEE HINDUSTAN
-http://103.223.14.56:8000/play/a0oc/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Zee bihar jharkhand
-http://103.223.14.56:8000/play/a0og/index.m3u8
 
-#EXTM3U
-#EXTINF:-1,123 TV
-http://38.41.8.1:8000/play/a03o
-#EXTINF:-1,A&E HD
-http://38.41.8.1:8000/play/a006
-#EXTINF:-1,AE Mundo
-http://38.41.8.1:8000/play/a07v
-#EXTINF:-1,ALBA TV
-http://38.41.8.1:8000/play/a03p
-#EXTINF:-1,AMC HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-http://38.41.8.1:8000/play/a01s
-#EXTINF:-1,AME CH47
-http://38.41.8.1:8000/play/a0al
-#EXTINF:-1,ANTV
-http://38.41.8.1:8000/play/a03m
-#EXTINF:-1,ATRES SERIES HD
-http://38.41.8.1:8000/play/a00x
-#EXTINF:-1,AXN
-http://38.41.8.1:8000/play/a05x
-#EXTINF:-1,AXN HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-http://38.41.8.1:8000/play/a009
-#EXTINF:-1,AZ Cinema HD
-http://38.41.8.1:8000/play/a020
-#EXTINF:-1,America TV PY
-http://38.41.8.1:8000/play/a07f
-#EXTINF:-1,Animal Planet HD
-http://38.41.8.1:8000/play/a023
-#EXTINF:-1,Antena 3
-http://38.41.8.1:8000/play/a0a4
-#EXTINF:-1,Avila TV
-http://38.41.8.1:8000/play/a03t
-#EXTINF:-1,BOLIVIA TV
-http://38.41.8.1:8000/play/a0ar
-#EXTINF:-1,BabyFirst
-http://38.41.8.1:8000/play/a055
-#EXTINF:-1,CANAL I
-http://38.41.8.1:8000/play/a046
-#EXTINF:-1,CGTN
-http://38.41.8.1:8000/play/a03h
-#EXTINF:-1,CGTN Documentary
-http://38.41.8.1:8000/play/a03z
-#EXTINF:-1,CNN Espanol
-http://38.41.8.1:8000/play/a059
-#EXTINF:-1,COLOMBEIA
-http://38.41.8.1:8000/play/a03n
-#EXTINF:-1,Canal 11
-http://38.41.8.1:8000/play/a0b1
-#EXTINF:-1,Canal Caracol
-http://38.41.8.1:8000/play/a06i
-#EXTINF:-1,Canal Claro
-http://38.41.8.1:8000/play/a073
-#EXTINF:-1,Canal Estrellas
-http://38.41.8.1:8000/play/a080
-#EXTINF:-1,Canal Publico de Argentina
-http://38.41.8.1:8000/play/a040
-#EXTINF:-1,Canal RCN
-http://38.41.8.1:8000/play/a06j
-#EXTINF:-1,Canal Vasco
-http://38.41.8.1:8000/play/a041
-#EXTINF:-1,Canal del Congreso
-http://38.41.8.1:8000/play/a06n
-#EXTINF:-1,Cartoon Network
-http://38.41.8.1:8000/play/a04y
-#EXTINF:-1,Cartoon Network HD
-http://38.41.8.1:8000/play/a01w
-#EXTINF:-1,Cinecanal
-http://38.41.8.1:8000/play/a04q
-#EXTINF:-1,Cinecanal HD
-http://38.41.8.1:8000/play/a01r
-#EXTINF:-1,Cinemax
-http://38.41.8.1:8000/play/a05v
-#EXTINF:-1,Cinemax HD
-http://38.41.8.1:8000/play/a00y
-#EXTINF:-1,City TV
-http://38.41.8.1:8000/play/a06x
-#EXTINF:-1,Claro Cinema
-http://38.41.8.1:8000/play/a066
-#EXTINF:-1,Claro Sports
-http://38.41.8.1:8000/play/a050
-#EXTINF:-1,Comedy Central HD
-http://38.41.8.1:8000/play/a00z
-#EXTINF:-1,ConCiencia TV
-http://38.41.8.1:8000/play/a03q
-#EXTINF:-1,DHE HD
-http://38.41.8.1:8000/play/a02x
-#EXTINF:-1,DTV
-http://38.41.8.1:8000/play/a0b0
-#EXTINF:-1,DW+
-http://38.41.8.1:8000/play/a0b6
-#EXTINF:-1,De PelŦcula
-http://38.41.8.1:8000/play/a08t
-#EXTINF:-1,Discovery Channel
-http://38.41.8.1:8000/play/a07l
-#EXTINF:-1,Discovery H&H HD
-http://38.41.8.1:8000/play/a017
-#EXTINF:-1,Discovery HD
-http://38.41.8.1:8000/play/a02y
-#EXTINF:-1,Discovery ID
-http://38.41.8.1:8000/play/a071
-#EXTINF:-1,Discovery Kids
-http://38.41.8.1:8000/play/a058
-#EXTINF:-1,Discovery Kids HD
-http://38.41.8.1:8000/play/a016
-#EXTINF:-1,Discovery Theater HD
-http://38.41.8.1:8000/play/a018
-#EXTINF:-1,Discovery Turbo
-http://38.41.8.1:8000/play/a068
-#EXTINF:-1,Disney Channel
-http://38.41.8.1:8000/play/a07k
-#EXTINF:-1,Disney HD
-http://38.41.8.1:8000/play/a00q
-#EXTINF:-1,Disney Jr
-http://38.41.8.1:8000/play/a05l
-#EXTINF:-1,E Entertainment
-http://38.41.8.1:8000/play/a07o
-#EXTINF:-1,E! HD
-http://38.41.8.1:8000/play/a02c
-#EXTINF:-1,ESPN
-http://38.41.8.1:8000/play/a07r
-#EXTINF:-1,ESPN 2
-http://38.41.8.1:8000/play/a05o
-#EXTINF:-1,ESPN 2 HD
-http://38.41.8.1:8000/play/a00c
-#EXTINF:-1,ESPN 2 Latin
-http://38.41.8.1:8000/play/a07q
-#EXTINF:-1,ESPN 3
-http://38.41.8.1:8000/play/a06a
-#EXTINF:-1,ESPN 3 HD
-http://38.41.8.1:8000/play/a00t
-#EXTINF:-1,ESPN 4
-http://38.41.8.1:8000/play/a07b
-#EXTINF:-1,ESPN 4 HD
-http://38.41.8.1:8000/play/a01c
-#EXTINF:-1,ESPN CO
-http://38.41.8.1:8000/play/a06r
-#EXTINF:-1,ESPN EXTRA HD
-http://38.41.8.1:8000/play/a01t
-#EXTINF:-1,ESPN HD
-http://38.41.8.1:8000/play/a01i
-#EXTINF:-1,ESPN HD
-http://38.41.8.1:8000/play/a00k
-#EXTINF:-1,EWTN EN ESPA¹OL
-http://38.41.8.1:8000/play/a0at
-#EXTINF:-1,El Gourmet HD
-http://38.41.8.1:8000/play/a012
-#EXTINF:-1,Enlace
-http://38.41.8.1:8000/play/a053
-#EXTINF:-1,Esne TV
-http://38.41.8.1:8000/play/a069
-#EXTINF:-1,FOX Sports 2 HD
-http://38.41.8.1:8000/play/a01d
-#EXTINF:-1,FX HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-http://38.41.8.1:8000/play/a01h
-#EXTINF:-1,Food Network HD
-http://38.41.8.1:8000/play/a02f
-#EXTINF:-1,Fox Sports 1 HD
-http://38.41.8.1:8000/play/a02z
-#EXTINF:-1,Fox Sports 2
-http://38.41.8.1:8000/play/a081
-#EXTINF:-1,Fox Sports 3
-http://38.41.8.1:8000/play/a082
-#EXTINF:-1,Fox Sports 3 HD
-http://38.41.8.1:8000/play/a00u
-#EXTINF:-1,GLOBOVISION
-http://38.41.8.1:8000/play/a03u
-#EXTINF:-1,Gama TV
-http://38.41.8.1:8000/play/a0ak
-#EXTINF:-1,Golden HD
-http://38.41.8.1:8000/play/a028
-#EXTINF:-1,HBO
-http://38.41.8.1:8000/play/a05u
-#EXTINF:-1,HBO 2
-http://38.41.8.1:8000/play/a05h
-#EXTINF:-1,HBO 2 HD
-http://38.41.8.1:8000/play/a021
-#EXTINF:-1,HBO Family
-http://38.41.8.1:8000/play/a05k
-#EXTINF:-1,HBO Family HD
-http://38.41.8.1:8000/play/a031
-#EXTINF:-1,HBO HD
-http://38.41.8.1:8000/play/a01u
-#EXTINF:-1,HBO POP HD
-http://38.41.8.1:8000/play/a00d
-#EXTINF:-1,HBO Plus
-http://38.41.8.1:8000/play/a05i
-#EXTINF:-1,HBO XTREME HD
-http://38.41.8.1:8000/play/a032
-#EXTINF:-1,HBO XTREME SD
-http://38.41.8.1:8000/play/a05j
-#EXTINF:-1,HOLA TV HD
-http://38.41.8.1:8000/play/a00r
-#EXTINF:-1,HTV
-http://38.41.8.1:8000/play/a08i
-#EXTINF:-1,HispanTV
-http://38.41.8.1:8000/play/a03g
-#EXTINF:-1,History 2 HD
-http://38.41.8.1:8000/play/a030
-#EXTINF:-1,History Channel
-http://38.41.8.1:8000/play/a04p
-#EXTINF:-1,History Channel HD
-http://38.41.8.1:8000/play/a005
-#EXTINF:-1,I-Sat
-http://38.41.8.1:8000/play/a04s
-#EXTINF:-1,IVC
-http://38.41.8.1:8000/play/a09r
-#EXTINF:-1,Las Estrellas HD
-http://38.41.8.1:8000/play/a02w
-#EXTINF:-1,Latina HD
-http://38.41.8.1:8000/play/a02h
-#EXTINF:-1,Lifetime
-http://38.41.8.1:8000/play/a056
-#EXTINF:-1,Lolly Kids HD
-http://38.41.8.1:8000/play/a02n
-#EXTINF:-1,MTV
-http://38.41.8.1:8000/play/a04t
-#EXTINF:-1,MTV HD
-http://38.41.8.1:8000/play/a02u
-#EXTINF:-1,MUSIC TV
-http://38.41.8.1:8000/play/a0au
-#EXTINF:-1,Meridiano
-http://38.41.8.1:8000/play/a03w
-#EXTINF:-1,NTV
-http://38.41.8.1:8000/play/a01m
-#EXTINF:-1,Nat Geo
-http://38.41.8.1:8000/play/a04o
-#EXTINF:-1,Nat Geo HD
-http://38.41.8.1:8000/play/a01p
-#EXTINF:-1,Nick HD
-http://38.41.8.1:8000/play/a00i
-#EXTINF:-1,Nick Jr
-http://38.41.8.1:8000/play/a067
-#EXTINF:-1,Nickelodeon
-http://38.41.8.1:8000/play/a04n
-#EXTINF:-1,Oromar TV
-http://38.41.8.1:8000/play/a045
-#EXTINF:-1,PLIM PLIM
-http://38.41.8.1:8000/play/a0b2
-#EXTINF:-1,Paramount HD
-http://38.41.8.1:8000/play/a01x
-#EXTINF:-1,Playboy HD
-http://38.41.8.1:8000/play/a0b7
-#EXTINF:-1,RCN Novelas
-http://38.41.8.1:8000/play/a070
-#EXTINF:-1,RTG
-http://38.41.8.1:8000/play/a0an
-#EXTINF:-1,RTV
-http://38.41.8.1:8000/play/a0ap
-#EXTINF:-1,Rusian Today HD
-http://38.41.8.1:8000/play/a0ai
-#EXTINF:-1,STAR CHANNEL
-http://38.41.8.1:8000/play/a04w
-#EXTINF:-1,STAR CHANNEL HD b
-http://38.41.8.1:8000/play/a019
-#EXTINF:-1,STAR TVE HD
-http://38.41.8.1:8000/play/a01z
-#EXTINF:-1,Senal Colombia
-http://38.41.8.1:8000/play/a06o
-#EXTINF:-1,Show Ven TV
-http://38.41.8.1:8000/play/a03s
-#EXTINF:-1,Sin Limites
-http://38.41.8.1:8000/play/a07e
-#EXTINF:-1,Sony
-http://38.41.8.1:8000/play/a05w
-#EXTINF:-1,Sony HD
-http://38.41.8.1:8000/play/a007
-#EXTINF:-1,Space HD
-http://38.41.8.1:8000/play/a00a
-#EXTINF:-1,Studio Universal
-http://38.41.8.1:8000/play/a05n
-#EXTINF:-1,Studio Universal HD
-http://38.41.8.1:8000/play/a01y
-#EXTINF:-1,Sun Channel HD
-http://38.41.8.1:8000/play/a015
-#EXTINF:-1,SyFy
-http://38.41.8.1:8000/play/a057
-#EXTINF:-1,TBS
-http://38.41.8.1:8000/play/a074
-#EXTINF:-1,TCM
-http://38.41.8.1:8000/play/a04x
-#EXTINF:-1,TELESUR
-http://38.41.8.1:8000/play/a03l
-#EXTINF:-1,TLC
-http://38.41.8.1:8000/play/a07y
-#EXTINF:-1,TLT
-http://38.41.8.1:8000/play/a03y
-#EXTINF:-1,TLT HD
-http://38.41.8.1:8000/play/a044
-#EXTINF:-1,TNT
-http://38.41.8.1:8000/play/a04z
-#EXTINF:-1,TNT Series HD
-http://38.41.8.1:8000/play/a01g
-#EXTINF:-1,TV Culturas
-http://38.41.8.1:8000/play/a0ay
-#EXTINF:-1,TV Galicia
-http://38.41.8.1:8000/play/a042
-#EXTINF:-1,TV PERU
-http://38.41.8.1:8000/play/a0as
-#EXTINF:-1,TV+ HD
-http://38.41.8.1:8000/play/a01n
-#EXTINF:-1,TVE
-http://38.41.8.1:8000/play/a054
-#EXTINF:-1,TVES
-http://38.41.8.1:8000/play/a03k
-#EXTINF:-1,TVFANB
-http://38.41.8.1:8000/play/a03r
-#EXTINF:-1,Telecaribe
-http://38.41.8.1:8000/play/a06b
-#EXTINF:-1,Telehit HD
-http://38.41.8.1:8000/play/a029
-#EXTINF:-1,Telemundo
-http://38.41.8.1:8000/play/a083
-#EXTINF:-1,Telesistema 11
-http://38.41.8.1:8000/play/a0am
-#EXTINF:-1,Televen
-http://38.41.8.1:8000/play/a03x
-#EXTINF:-1,Travelxp HD
-http://38.41.8.1:8000/play/a014
-#EXTINF:-1,Trece
-http://38.41.8.1:8000/play/a06e
-#EXTINF:-1,TyC Sports HD
-http://38.41.8.1:8000/play/a02i
-#EXTINF:-1,UNIVERSAL CHANNEL HD
-http://38.41.8.1:8000/play/a01a
-#EXTINF:-1,Universal
-http://38.41.8.1:8000/play/a04r
-#EXTINF:-1,Universal Cinema SD
-http://38.41.8.1:8000/play/a05q
-#EXTINF:-1,Universal Comedy SD
-http://38.41.8.1:8000/play/a05r
-#EXTINF:-1,Universal Premiere SD
-http://38.41.8.1:8000/play/a05p
-#EXTINF:-1,VTV
-http://38.41.8.1:8000/play/a03i
-#EXTINF:-1,Venevision
-http://38.41.8.1:8000/play/a03v
-#EXTINF:-1,Venevision Plus
-http://38.41.8.1:8000/play/a0a0
-#EXTINF:-1,Venus
-http://38.41.8.1:8000/play/a07w
-#EXTINF:-1,ViaX
-http://38.41.8.1:8000/play/a07z
-#EXTINF:-1,Vive TV
-http://38.41.8.1:8000/play/a03j
-#EXTINF:-1,Warner
-http://38.41.8.1:8000/play/a07n
-#EXTINF:-1,Warner Channel HD
-http://38.41.8.1:8000/play/a008
-#EXTINF:-1,Win
-http://38.41.8.1:8000/play/a061
-#EXTINF:-1,Zona Latina
-http://38.41.8.1:8000/play/a04u
-#EXTINF:-1,Zoom
-http://38.41.8.1:8000/play/a06u
+
