@@ -82,6 +82,7 @@ http://103.132.181.118:82/play/a00i
 #EXTINF:0 tvg-id="ext" group-title="Hindi Movies",Sony Wah
 https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Hindi Movies",Dhinchak
+#EXTINF:0 tvg-id="channel_id" tvg-name="Dhinchaak" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuxyv9XnqLdtp6anP4l8t-UZoTJYyodMiz0flZDjWiLUfRT2Jic7vgE2--v5oTDU1Qegy5_STWSYdagYDr3PGY1L7EMg0bluU4dMWOGZ3PJ5oqyim_E4hoPs-ABea4zW3mBikzIPjFj6QTWeJ0GBDGOZAHMY3pm6VTQteFo5ah-ETuN7ZhK3_T39lp/w320-h251-rw/dhinchaak-channel-logo.jpg" group-title="Hindi Movies", Dhinchaak
 https://livectv.phando.com/8070/chunklist0.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Hindi Movies",B4u Kadak
 https://livectv.phando.com/8060/chunklist0.m3u8
@@ -89,7 +90,7 @@ https://livectv.phando.com/8060/chunklist0.m3u8
 https://livectv.phando.com/8073/chunklist0.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Hindi Movies",Bflix
 https://livectv.phando.com/8079/chunklist0.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Hindi Movies",Goldmines Movies
+#EXTINF:0 tvg-id="channel_id" tvg-name="Goldmines Movies" tvg-logo="https://the-media-ant.mo.cloudinary.net/uploads/mediaLogos/1694425388051/23%20Goldmines%20Movies.svg?tx=w_350" group-title="Hindi Movies", Goldmines Movies
 https://livectv.phando.com/8072/chunklist0.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Hindi Movies", ZEE ANMOL CINEMA
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmolcinema/default/index.m3u8
@@ -113,8 +114,14 @@ http://103.132.181.118:82/play/a00j
 #EXTINF:0 tvg-id="SonyMAX.in" group-title="Hindi Movies",Sony MAX HD
 http://103.132.181.118:82/play/a00c
 
-#EXTINF:0 tvg-id="UTVAction.in" group-title="Hindi Movies",Star Gold Romance
+#EXTINF:0 tvg-id="channel_id" tvg-name="Star Gold Romance" tvg-logo="https://tamil.gizbot.com/img/2021/08/stargoldromancechannel-1628004709.jpg" group-title="Hindi Movies", Star Gold Romance
 http://103.132.181.118:82/play/a00m
+
+#EXTINF:0 tvg-id="channel_id" tvg-name="Star Gold Thrills" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-gold-thrills-hk.png" group-title="Hindi Movies", Star Gold Thrills
+
+#EXTINF:0 tvg-id="ext" group-title="English Movies",Star Gold Thrills
+http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8?token=test
+
 
 #EXTINF:0 tvg-id="ext" group-title="Hindi Movies",And Pictures HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
@@ -122,7 +129,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Hindi Movies",Colors Cineplex Superhit
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Hindi Movies",Joo Music
+#EXTINF:0 tvg-id="channel_id" tvg-name="Joo Music" tvg-logo="https://www.lyngsat.com/logo/tv/jj/joo_music_pk.png" group-title="Hindi Movies", Joo Music
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:0 tvg-id="StarGold.uk" group-title="Hindi Movies",Star Gold HD
 http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test
@@ -676,8 +683,7 @@ https://i.mjh.nz/PlutoTV/591105034c1806b47438342c-alt.m3u8
 https://i.mjh.nz/PlutoTV/6504b190473a5400083bf0f1-alt.m3u8
 #EXTINF:0 tvg-id="ext" group-title="English Movies",The Asylum
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_theasylum_001.m3u8?ads.caid=TheAsylum&ads.csid=samsungtvplus_us_theasylum_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB1-5&ads._fw_content_genre=movies&ads._fw_content_language=en&ads._fw_content_rating=pg-13&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=275&ads.xumo_contentName=TheAsylum&ads.xumo_providerId=275&ads.xumo_providerName=TheAsylum&ads.xumo_channelId=9999532&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
-#EXTINF:0 tvg-id="ext" group-title="English Movies",Star Gold Thrils
-http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8?token=test
+
 #EXTINF:0 tvg-id="ext" group-title="English Movies",247box tv
 https://hls.247box.live/hls/stream.m3u8
 #EXTINF:0 tvg-id="SyriTV.al" group-title="English Movies",syri tv
