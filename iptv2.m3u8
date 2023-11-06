@@ -5,7 +5,8 @@ https://m3u8v1.playmoviekh.click/m3u8v2/720/653b3309f16f8d0c5a622942/6b1b421737f
 
 #EXTINF: tvg-id="ext" group-title=" Hindi Entertainment",#### Hindi Entertainment ####
 
-
+#EXTINF:0 tvg-id="ext" group-title="Hindi Entertainment",Star Bharat 
+https://myzee5.xyz/toffee/master.php?id=star_bharat
 #EXTINF:0 tvg-id="ext" group-title="Hindi Entertainment",SET HD
 http://103.132.181.118:82/play/a00h
 
