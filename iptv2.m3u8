@@ -979,17 +979,23 @@ http://208.86.19.13:81/11.stream/index.m3u8
 https://i.mjh.nz/SamsungTVPlus/GBBA3300050RG.m3u8
 
 
+#EXTINF:0 tvg-id="WedoMovies.de" group-title="English Movies", 4MH Iron Man
+
+http://tx-screenshots.flv.huya.com/src/1250011-1250011-5368756364640256-2789253862-10057-A-0-1.flv?
+
+
+
 #EXTINF:0 tvg-id="ext" group-title=" English Movies",FilmRise Horror
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,FilmRise-Horror.m3u8?yo.ap=https%3A%2F%2Flna.tubi.video%2Fprd-yospace%2F&yo.t.jt=1000&yo.eb.fb=aHR0cHM6Ly9sbmMtZmlsbXJpc2UtaG9ycm9yLnR1YmkudmlkZW8vaW5kZXgubTN1OA&app_id=tubitv&app_mode=DEFAULT_MODE&content_id=692090&content_type=mp4&device_id=b5ac00b8-2874-4ee5-bdd3-9903f7bc34cc&language=en&now_pos=0&pub_id=2e2a2303850f0a712d5d71ecdcbbf8de&vpaid_enabled=true&origin=search&platform=WEB
 
-
 #EXTINF: tvg-id="ext" group-title="Infortainment",#### Infortainment ####
 
+#EXTINF:0 tvg-id="BBC4.uk" group-title="Infortainment",Love 4K Nature  
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 #EXTINF:0 tvg-id="BBC4.uk" group-title="Infortainment",BBC Four HD
 https://helpfulpost.net/bbcfour/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Infortainment",IN Wild
-https://inwild-samsungau.amagi.tv/playlist.m3u8
+
 #EXTINF:0 tvg-id="animal-hd" group-title="Infortainment",Animal Planet HD
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-animalplanthdin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
