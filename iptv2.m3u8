@@ -27,18 +27,24 @@ http://103.132.181.118:82/play/a00e
 #EXTINF:0 tvg-id="Colors.in" group-title="Hindi Entertainment",Colors HD
 http://103.132.181.118:82/play/a00g
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:0 tvg-id="SONYSAB.uk" group-title="Hindi Entertainment",Sony SAB
 https://madxsia.live/jtv/app/live2f830e8a197a784f1d4c42d97f6008bfaa2e3585ed53d8fbd1cfec1c88e561ba9064428851a7fee574c9656bd95dced57bd3b54bc80a989b37d3028fe7e1c9ff4a0f1ca631bed75f9d643b0efb059e8d/154/Sony_SAB/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Hindi Entertainment",Sony SAB HD
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:0 tvg-id="ext" group-title="Hindi Entertainment",Sony SAB HD
 https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:0 tvg-id="set" group-title="Hindi Entertainment",SET HD
 https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
+
 #EXTINF:0 tvg-id="Colors.in" group-title="Hindi Entertainment",colors hd
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/index.m3u8
+
+
 #EXTINF:0 tvg-id="ext" group-title="Hindi Entertainment",Colors Rishtey
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Rishtey_voot_MOB/Fallback/index.m3u8
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:0 tvg-id="ext" group-title="Hindi Entertainment",And TV HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/index.m3u8
@@ -46,6 +52,8 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:0 tvg-id="SonyPal.in" group-title="Hindi Entertainment",Sony Pal
 https://dai.google.com/linear/hls/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:0 tvg-id="channel_id" tvg-name="Channel Name" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Sony_Kal_Logo.jpeg/300px-Sony_Kal_Logo.jpeg"  group-title="Hindi Entertainment",Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Hindi Entertainment",The Q
@@ -54,10 +62,19 @@ https://vg-theqlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453
 https://epiconvh.s.llnwi.net/live/nazara/master_720.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Hindi Entertainment", Enterr 10
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:0 tvg-id="Zing.uk" group-title="Hindi Entertainment",Zing
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zing/default/index.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:0 tvg-id="id-extra" group-title="Hindi Entertainment",Investigation Discovery
 https://i.mjh.nz/SamsungTVPlus/INBC1500006UB.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:0 tvg-id="id-extra" group-title="Hindi Entertainment",Investigation Discovery HD
+https://varun-iptv.netlify.app/m3u/Investigation_Discovery.m3u8
+
+
 #EXTINF:0 tvg-id="ext" group-title="Hindi Entertainment",Korean TV
 https://i.mjh.nz/SamsungTVPlus/INBC4300008IH.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Hindi Entertainment",Dangal 2
