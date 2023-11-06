@@ -12,7 +12,7 @@ https://m3u8v1.playmoviekh.click/m3u8v2/720/653b3309f16f8d0c5a622942/6b1b421737f
 http://103.132.181.118:82/play/a00h
 
 #EXTINF:0 tvg-id="SONYSAB.uk" group-title="Hindi Entertainment",Sony SAB
-https://madxsia.live/jtv/app/live2f830e8a197a784f1d4c42d97f6008bfaa2e3585ed53d8fbd1cfec1c88e561ba9064428851a7fee574c9656bd95dced57bd3b54bc80a989b37d3028fe7e1c9ff4a0f1ca631bed75f9d643b0efb059e8d/154/Sony_SAB/index.m3u8
+https://tvs1.aynaott.com/SabSD/tracks-v1a1/mono.m3u8?hdnts=st=1699290104~exp=1699333304~acl=/*~data=45.61.146.183-WEB~hmac=d19d01bff77e8a70921db19d0014658e9b45513ed57a66dc7566a875dafc3778
 
 #EXTINF:0 tvg-id="set" group-title="Hindi Entertainment",SET HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
@@ -151,7 +151,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/index.m3u8
 http://103.132.181.118:82/play/a00x
 #EXTINF:0 tvg-id="Pictures.in" group-title="Hindi Movies",And Pictures
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-http://103.132.181.118:82/play/a01c
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictures/default/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Hindi Movies", And Pictures HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 http://103.132.181.118:82/play/a01b
@@ -1241,6 +1241,10 @@ http://200.37.187.210:8460/play/a00l
 
 
 ##### Test Channels ####
+
+#EXTINF:0 tvg-id="ext" group-title="wwe",wwe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+https://sky.hlsjs.ru/sky/premium376/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",Sony Sport Ten 2
 http://103.132.181.118:82/play/a00v
