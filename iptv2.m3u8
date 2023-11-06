@@ -261,10 +261,14 @@ https://i.mjh.nz/SamsungTVPlus/INBC4300009W5.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Hindi kids",Gubbare
 https://epiconvh.s.llnwi.net/gubbare/master_480.m3u8
 #EXTINF:0 tvg-id="cartoon" group-title="Hindi kids",Cartoon Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://i.mjh.nz/SamsungTVPlus/INBD13000205L.m3u8
 #EXTINF:0 tvg-id="POGO.in" group-title="Hindi kids",pogo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+
 https://i.mjh.nz/SamsungTVPlus/INBD1300021X3.m3u8
 #EXTINF:0 tvg-id="DiscoveryKids.mx" group-title="Hindi kids",Discovery Kids
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoverykids-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1
 #EXTINF:0 tvg-id="nickelod" group-title="Hindi kids",Nick HD+
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/index.m3u8
@@ -1233,8 +1237,6 @@ http://200.37.187.210:8460/play/a01z
 http://200.37.187.210:8460/play/a012
 #EXTINF:0 tvg-id="ZonaLatina.cl" group-title="English channel test",Zona Latina
 http://200.37.187.210:8460/play/a00l
-
-
 
 
 
