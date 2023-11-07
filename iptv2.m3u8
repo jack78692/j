@@ -364,6 +364,7 @@ http://103.132.181.118:82/play/a007
 
 
 #EXTINF:0 tvg-id="ext" group-title="Hindi Infortainment",DMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://varun-iptv.netlify.app/m3u/DMAX.m3u8
 #EXTINF:0 tvg-id="discov_sci" group-title="Hindi Infortainment",Discovery Science
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoverysciin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
@@ -730,6 +731,7 @@ http://multies.xyz/live/C329CC0FE8134523F06B5253174DD42C/133.m3u8
 #EXTINF:0 tvg-id="ext" group-title="English Movies",MHz Now
 https://i.mjh.nz/SamsungTVPlus/CAAJ34000158F.m3u8
 #EXTINF:0 tvg-id="LEGEND.uk" group-title="English Movies",Legend
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 http:\\92.114.85.81:8000\play\a01p\index.m3u8
 #EXTINF:0 tvg-id="Hbofamily.br" group-title="English Movies",HBO Family
 https://m2.ballnaja.com:8443/HBOFAMILY/playlist.m3u8
@@ -752,6 +754,7 @@ https://persiana-hd.icdndhcp.com/hls/stream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="English Movies",PERSIANA ONE
 http://51.210.199.21/hls/stream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="English Movies",Sony Movie Channel (SONY) [386]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 http://n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="English Movies",Crackle
 https://crackle-plex.amagi.tv/playlist.m3u8
@@ -783,6 +786,7 @@ https://hls.247box.live/hls/stream.m3u8
 #EXTINF:0 tvg-id="SyriTV.al" group-title="English Movies",syri tv
 http://live.syri.tv:6969/live/syriblue/hd/23.ts
 #EXTINF:0 tvg-id="ext" group-title="English Movies",Kix HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 http://210.210.155.35:80/session/8311a7f2-d2af-11ed-8b6a-b82a72d63267/dr9445/h/h07/01.m3u8?app_type=web&userid=558418&tkn=HEJX7YCG335HJE4WBH73VAG1M8ZE7NLH&chname=KIX_HD
 #EXTINF:0 tvg-id="ext" group-title="English Movies",ROCK Action
 http:\\210.210.155.37\dr9445\h\h15\index.m3u8
@@ -801,6 +805,7 @@ https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m
 #EXTINF:0 tvg-id="ext" group-title="English Movies",Lotus Macau
 http://anren.live/HK/BiIOU11uLA.m3u8
 #EXTINF:0 tvg-id="ext" group-title="English Movies",Celestial Movies (Indonesian Subtitle) (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 http://210.210.155.37/dr9445/h/h14/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="English Movies",Groovy TV (360p)
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
@@ -834,6 +839,7 @@ https://amchls.wns.live/hls/stream.m3u8
 https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w959468978.m3u8
 
 #EXTINF:0 tvg-id="ITV1London.uk" group-title="English Movies",ITV1 London
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 http:\\92.114.85.81:8000\play\a00y\index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="English Movies",Uae: Dubai TV
 https://dmieigthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
@@ -876,6 +882,7 @@ https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="English Movies",My Time
 https://mytime-tcl.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="English Movies",009. AMC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 http://45.5.117.182:8000/play/a0f5/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="English Movies",Pluto Family movie club
 https://i.mjh.nz/PlutoTV/5dc3fc6b9133f500099c7d98-alt.m3u8
@@ -1016,38 +1023,50 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlis
 #EXTINF:0 tvg-id="ext" group-title="English Movies",Kurdsat TV
 https://ikomg2.mmdlive.lldns.net/ikomg2/366ca61db4c646a2bf9cd9f92dd6321c/manifest.m3u8
 #EXTINF:0 tvg-id="ext" group-title="English Movies",Shout! Factory
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://dai.google.com/linear/hls/event/JX5KKhKKRPqchP3LfXD-1A/master.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="English Movies",sony crakcle
 https://crackle-plex.amagi.tv/playlist720p.m3u8
 #EXTINF:0 tvg-id="ext" group-title="English Movies",weyyak action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
 #EXTINF:0 tvg-id="Sundancechannel.hu" group-title="English Movies",sundance tv
 https://bcovlive-a.akamaihd.net/4d972ec6f41241f2b4286f8bdcc8dae9/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="English Movies",Thrill stable
 http://210.210.155.37/qwr9ew/s/s34/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="English Movies",Celestial_Movies_HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 http://210.210.155.35:80/session/833545b8-d2af-11ed-aeaf-b82a72d63267/dr9445/h/h14/01.m3u8?app_type=web&userid=558418&tkn=HEJX7YCG335HJE4WBH73VAG1M8ZE7NLH&chname=Celestial_Movies_HD
 #EXTINF:0 tvg-id="ext" group-title="English Movies",Cinema World Hd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 http://210.210.155.35:80/session/836e26e4-d2af-11ed-aeaf-b82a72d63267/dr9445/h/h04/01.m3u8?app_type=web&userid=558418&tkn=HEJX7YCG335HJE4WBH73VAG1M8ZE7NLH&chname=CinemaWorld_HD
 #EXTINF:0 tvg-id="ext" group-title="English Movies",TVN Movies Hd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 http://210.210.155.35:80/session/86113774-d2af-11ed-b03c-b82a72d63267/dr9445/h/h21/01.m3u8?app_type=web&userid=558418&tkn=HEJX7YCG335HJE4WBH73VAG1M8ZE7NLH&chname=tvN_Movies_HD
 #EXTINF:0 tvg-id="ext" group-title="English Movies",My family channel HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 http://210.210.155.37:80/session/83ac7fe8-d2af-11ed-8b6a-b82a72d63267/x6bnqe/h/h194/index.m3u8?app_type=web&userid=558418&tkn=HEJX7YCG335HJE4WBH73VAG1M8ZE7NLH&chname=My_Family_Channel
 #EXTINF:0 tvg-id="ext" group-title="English Movies",My Cinema HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 http://210.210.155.37:80/session/83773a72-d2af-11ed-b03c-b82a72d63267/x6bnqe/h/h192/index.m3u8?app_type=web&userid=558418&tkn=HEJX7YCG335HJE4WBH73VAG1M8ZE7NLH&chname=My_Cinema_HD
 #EXTINF:0 tvg-id="ext" group-title="English Movies",Net Geo Finland
 https://live-fi.tvkaista.net/national-geographic/live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="English Movies",mtv ava
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://live-fi.tvkaista.net/ava/live.m3u8
 #EXTINF:0 tvg-id="Ocko.cz" group-title="English Movies",Ocko
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="English Movies",mtv sub
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://live-fi.tvkaista.net/sub/live.m3u8
 #EXTINF:0 tvg-id="TheVoice.fi" group-title="English Movies",kutonen
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://live-fi.tvkaista.net/kutonen/live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="English Movies",Star Channel IT
 http:\\rhsbjv7k.tvclub.xyz\iptv\7X7TH5HWBFFB23\19103\index.m3u8
 #EXTINF:0 tvg-id="ITV4.uk" group-title="English Movies",ITV4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 http:\\92.114.85.77:8000\play\a05z
 #EXTINF:0 tvg-id="ext" group-title="English Movies",MovieSphere
 https://i.mjh.nz/SamsungTVPlus/GBBA33000557H.m3u8
@@ -1060,37 +1079,45 @@ http:\\iptv.prosto.tv:7000\ch50\video.m3u8
 #EXTINF:0 tvg-id="avi" group-title="English Movies",Toonami Aftermath Movies
 http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="English Movies",Charge!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="English Movies",ScreamBox TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="English Movies",DiscoverFilm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="English Movies",Pluto TV Kultfilmer
 https://i.mjh.nz/PlutoTV/63dbe8c8a9957100087798a3-alt.m3u8
 #EXTINF:0 tvg-id="ext" group-title="English Movies",USA Network - Pacific
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 http://208.86.19.13:81/11.stream/index.m3u8
 #EXTINF:0 tvg-id="WedoMovies.de" group-title="English Movies",wedo movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://i.mjh.nz/SamsungTVPlus/GBBA3300050RG.m3u8
 
 
 #EXTINF:0 tvg-id="WedoMovies.de" group-title="English Movies", 4MH Iron Man
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 http://tx-screenshots.flv.huya.com/src/1250011-1250011-5368756364640256-2789253862-10057-A-0-1.flv?
 
 
 
 #EXTINF:0 tvg-id="ext" group-title=" English Movies",FilmRise Horror
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,FilmRise-Horror.m3u8?yo.ap=https%3A%2F%2Flna.tubi.video%2Fprd-yospace%2F&yo.t.jt=1000&yo.eb.fb=aHR0cHM6Ly9sbmMtZmlsbXJpc2UtaG9ycm9yLnR1YmkudmlkZW8vaW5kZXgubTN1OA&app_id=tubitv&app_mode=DEFAULT_MODE&content_id=692090&content_type=mp4&device_id=b5ac00b8-2874-4ee5-bdd3-9903f7bc34cc&language=en&now_pos=0&pub_id=2e2a2303850f0a712d5d71ecdcbbf8de&vpaid_enabled=true&origin=search&platform=WEB
 
 #EXTINF: tvg-id="ext" group-title="Infortainment",#### Infortainment ####
 
-#EXTINF:0 tvg-id="BBC4.uk" group-title="Infortainment",Love 4K Nature  
+#EXTINF:0 tvg-id="BBC4.uk" group-title="Infortainment",Love 4K Nature 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 #EXTINF:0 tvg-id="BBC4.uk" group-title="Infortainment",BBC Four HD
 https://helpfulpost.net/bbcfour/index.m3u8
 
 #EXTINF:0 tvg-id="animal-hd" group-title="Infortainment",Animal Planet HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-animalplanthdin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
 
