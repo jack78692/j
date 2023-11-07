@@ -698,7 +698,7 @@ https://gcinemahls.wns.live/hls/stream.m3u8
 http://103.132.181.118:82/play/a00t
 
 #EXTINF:0 tvg-id="StarMoviesHD.in" group-title="English Movies",Star Movies HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36 LibVLC/3.0.16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
 http://103.132.181.118:82/play/a005
 
 #EXTINF:0 tvg-id="ext" group-title="English Movies",Hits Movies
@@ -710,9 +710,10 @@ https://m2.ballnaja.com:8443/HITS_MOVIES/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="English Movies",& Prive HD
 https://madxsia.live/jtv/app/liveb54b73837bd09227b36635191ff62030a6c357999719f8bffa1125507b644cee1f72696f125014be82bd652bfa9243aeaca91460df51dfc3f0ce4ca13da4b10e42adcb698e5c0133c02ee3a89d097986/1349/And_Prive_HD/index.m3u8
 #EXTINF:0 tvg-id="MBCMax.net" group-title="English Movies",MBC Max HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
 http://multies.xyz/live/C329CC0FE8134523F06B5253174DD42C/135.m3u8
 #EXTINF:0 tvg-id="ext" group-title="English Movies",MBC Variety HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
 http://darkteam.vip:25461/live/jonar879/LFvOeGXYLyjhk00-/2197.ts
 #EXTINF:0 tvg-id="ext" group-title="English Movies",bizzarromovies
 https://minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8
