@@ -343,18 +343,6 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-sam
 
 #EXTINF: tvg-id="ext" group-title="Hindi Infortainment",#### Hindi Infortainment ####
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:0 tvg-id="ext" group-title="Hindi Infortainment",Discovery Hindi Hd
-https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
-
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:0 tvg-id="animal-hd" group-title="Hindi Infortainment",Animal Planet HD
-http://103.132.181.118:82/play/a00w
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:0 tvg-id="ext" group-title="Hindi Entertainment",test 
-https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 
 #EXTINF:0 tvg-id="natgeo_hd" group-title="Hindi Infortainment",NAT GEO HD
 http://103.132.181.118:82/play/a006
@@ -362,6 +350,9 @@ http://103.132.181.118:82/play/a006
 #EXTINF:0 tvg-id="discov_rus-hd" group-title="Hindi Infortainment",Discovery HD
 http://103.132.181.118:82/play/a007
 
+#EXTINF:0 tvg-id="ext" group-title="Hindi Infortainment",Discovery Hindi Hd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Hindi Infortainment",DMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
@@ -374,6 +365,14 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryin-samsu
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-animalplanetin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:0 tvg-id="animal-hd" group-title="Hindi Infortainment",Animal Planet HD
 http://119.152.56.1:8000/play/a01z/index.m3u8
+
+#EXTINF:0 tvg-id="animal-hd" group-title="Hindi Infortainment",Animal Planet HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://103.132.181.118:82/play/a00w
+#EXTINF:0 tvg-id="ext" group-title="Hindi Infortainment",Animal Planet HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
+
 
 #EXTINF: tvg-id="ext" group-title="English Kids",#### English Kids ####
 
