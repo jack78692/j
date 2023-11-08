@@ -6,6 +6,15 @@ https://m3u8v1.playmoviekh.click/m3u8v2/720/653b3309f16f8d0c5a622942/6b1b421737f
 #### Hindi Entertainment ####
 
 
+#EXTINF:-1 tvg-id="LA2 TDT SD 4.sp" tvg-name="LA 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Se15.png" group-title="TDT",LA 2
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; …) Gecko/20100101 Firefox/59.0
+http://119.59.125.18:8081/live/cinemax1/playlist.m3u8
+
+
+
+
+
 #EXTINF:0 tvg-id="ext" group-title="Hindi Entertainment",SET HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 http://103.132.181.118:82/play/a00h
