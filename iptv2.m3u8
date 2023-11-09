@@ -367,7 +367,7 @@ http://119.152.56.1:8000/play/a01z/index.m3u8
 #EXTINF:0 tvg-id="animal-hd" group-title="Hindi Infortainment",Animal Planet HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 http://103.132.181.118:82/play/a00w
-#EXTINF:0 tvg-id="ext" group-title="Hindi Infortainment",Animal Planet HD
+#EXTINF:0 tvg-id="ext" group-title="Hindi Infortainment",Animal Planet HD 1
 https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 
 
