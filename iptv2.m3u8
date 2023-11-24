@@ -1958,7 +1958,7 @@ http://200.37.187.210:8460/play/a01l
 http://200.37.187.210:8460/play/a01n
 #EXTINF:0 tvg-id="Space.br" group-title="English Movies",Space
 http://173.225.246.25:8889/udp/239.203.20.160:4003
-#EXTINF:0 tvg-id="Space.br" group-title="kids",Adult Swim
+#EXTINF:0 tvg-id="Space.br" group-title="English kids",Adult Swim
 http://173.225.246.25:8889/udp/239.203.20.169:4003
 #EXTINF:0 tvg-id="StudioUniversal.it" group-title="English Movies",Studio Universal
 http://200.37.187.210:8460/play/a00b
