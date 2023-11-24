@@ -249,9 +249,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema/default/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4.2.2; AFTB Build/JDQ39) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.173 Mobile Safari/537.22 cordova-amazon-fireos/3.4.0 AmazonWebAppPlatform/3.4.0;2.0
 https://sanjibweb.me/paid/smtv2/index.m3u8?id=967
 
-#EXTINF:0 tvg-id="ext" group-title="Hindi Movies",&Flix HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4.2.2; AFTB Build/JDQ39) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.173 Mobile Safari/537.22 cordova-amazon-fireos/3.4.0 AmazonWebAppPlatform/3.4.0;2.0
-http://103.132.181.118:82/play/a00x
+
 #EXTINF:0 tvg-id="Pictures.in" group-title="Hindi Movies",And Pictures
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4.2.2; AFTB Build/JDQ39) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.173 Mobile Safari/537.22 cordova-amazon-fireos/3.4.0 AmazonWebAppPlatform/3.4.0;2.0
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictures/default/index.m3u8
@@ -284,8 +282,24 @@ http://103.132.181.118:82/play/a00c
 
 
 
+#EXTINF:0 tvg-id="ext" group-title="Hindi Movies",&Flix HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4.2.2; AFTB Build/JDQ39) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.173 Mobile Safari/537.22 cordova-amazon-fireos/3.4.0 AmazonWebAppPlatform/3.4.0;2.0
+http://103.132.181.118:82/play/a00x
 
 
+#EXTINF:0 tvg-id="ext" group-title="Hindi Movies",& Flix HD Link 2
+https://sanjibweb.me/paid/smtv2/index.m3u8?id=936
+
+#EXTINF:0 tvg-id="ext" group-title="Hindi Movies",& Flix HD Link 3
+http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2088.ts
+
+#EXTINF:0 tvg-id="ext" group-title="Hindi Movies",&flix HD Link 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4.2.2; AFTB Build/JDQ39) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.173 Mobile Safari/537.22 cordova-amazon-fireos/3.4.0 AmazonWebAppPlatform/3.4.0;2.0
+http://103.132.181.118:82/play/a00x
+
+#EXTINF:0 tvg-id="ext" group-title="Hindi Movies",&flix HD Link 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4.2.2; AFTB Build/JDQ39) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.173 Mobile Safari/537.22 cordova-amazon-fireos/3.4.0 AmazonWebAppPlatform/3.4.0;2.0
+http://119.152.56.1:8000/play/a03y/index.m3u8
 
 
 
@@ -356,8 +370,7 @@ https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Hindi Movies",Hollywood Local
 https://sanjibweb.me/paid/smtv2/index.m3u8?id=953
 
-#EXTINF:0 tvg-id="ext" group-title="Hindi Movies",& Flix HD Test (24)
-https://sanjibweb.me/paid/smtv2/index.m3u8?id=936
+
 
 
 #EXTINF:0 tvg-id="BollywoodClassic.ro" group-title="Hindi Movies",Bollywood Classic HD
@@ -1413,8 +1426,7 @@ http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93099.ts
 
 
 
-#EXTINF:0 tvg-id="ext" group-title="English Movies",& Flix HD
-http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2088.ts
+
 #EXTINF:0 tvg-id="ext" group-title="English Movies",& Prive HD
 http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2103.ts
 #EXTINF:0 tvg-id="MoviesNowHD.in" group-title="English Movies",Movies Now HD
@@ -2009,13 +2021,6 @@ http://103.132.181.118:82/play/a00u
 #EXTINF:0 tvg-id="ext" group-title="Channels",Star Sport SEL 1 HD
 http://103.132.181.118:82/play/a00l
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",&flix HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4.2.2; AFTB Build/JDQ39) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.173 Mobile Safari/537.22 cordova-amazon-fireos/3.4.0 AmazonWebAppPlatform/3.4.0;2.0
-http://103.132.181.118:82/play/a00x
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",&flix HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4.2.2; AFTB Build/JDQ39) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.173 Mobile Safari/537.22 cordova-amazon-fireos/3.4.0 AmazonWebAppPlatform/3.4.0;2.0
-http://119.152.56.1:8000/play/a03y/index.m3u8
 
 
 #EXTINF:0 tvg-id="animal-hd" group-title="Channels",Animal Planet HD
@@ -6079,8 +6084,7 @@ http://watchindia.net:8880/live/dharm23/qVir1fHdBn/1952.ts
 #EXTINF:0 tvg-id="ZeePunjabi.uk" group-title="Punjabi",Zee Punjabi
 http://watchindia.net:8880/live/dharm23/qVir1fHdBn/1951.ts
 
-#EXTINF:0 tvg-id="ext" group-title="English Movies",& Flix HD
-http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2088.ts
+
 #EXTINF:0 tvg-id="ext" group-title="English Movies",& Prive HD
 http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2103.ts
 #EXTINF:0 tvg-id="MoviesNowHD.in" group-title="English Movies",Movies Now HD
