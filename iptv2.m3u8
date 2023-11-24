@@ -324,8 +324,7 @@ http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8?token=test
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Hindi Movies",Hollywood Desi
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg02537-skandhamediaser-hollywooddesi-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-#EXTINF:0 tvg-id="ext" group-title="Hindi Movies",Cinema TV India
-https://livectv.phando.com/8055/chunklist0.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Hindi Movies",extream hindi
 https://stmv1.cnarlatam.com/cinehindi/cinehindi/playlist.m3u8
 #EXTINF:0 tvg-id="ZeeAflam.net" group-title="Hindi Movies",Zee Aflam
@@ -361,8 +360,7 @@ https://livectv.phando.com/8025/chunklist0.m3u8
 https://livectv.phando.com/8029/chunklist0.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Hindi Movies",MH1 Dil Se
 https://livectv.phando.com/8006/chunklist0.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Hindi Movies",WOW Cinema One
-https://livectv.phando.com/8063/chunklist0.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Hindi Movies",Bollywood Prime
 https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
 
