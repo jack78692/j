@@ -421,12 +421,12 @@ https://i.mjh.nz/SamsungTVPlus/INBC4300009W5.m3u8
 #EXTINF:0 tvg-id="nick-jr" group-title="Hindi kids",Nick JR
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8
 
-#EXTINF:0 tvg-id="HungamaTV.in" group-title="Hindi kids",Hungama (test)
+#EXTINF:0 tvg-id="HungamaTV.in" group-title="Hindi kids",Hungama TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4.2.2; AFTB Build/JDQ39) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.173 Mobile Safari/537.22 cordova-amazon-fireos/3.4.0 AmazonWebAppPlatform/3.4.0;2.0
 https://sanjibweb.me/paid/smtv2/index.m3u8?id=108
 
 
-#EXTINF:0 tvg-id="HungamaTV.in" group-title="Hindi kids",Disney Channel India (test)
+#EXTINF:0 tvg-id="HungamaTV.in" group-title="Hindi kids",Disney Channel
 https://sanjibweb.me/paid/smtv2/index.m3u8?id=861
 
 #EXTINF:0 tvg-id="ext" group-title="Hindi kids", Chumbak TV
