@@ -161,13 +161,12 @@ http://103.223.14.56:8000/play/a0xn/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4.2.2; AFTB Build/JDQ39) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.173 Mobile Safari/537.22 cordova-amazon-fireos/3.4.0 AmazonWebAppPlatform/3.4.0;2.0
 http://103.223.14.56:8000/play/a0xb/index.m3u8
 
-#EXTINF:0 tvg-id="SonyPal.in" group-title="Hindi Entertainment",DD National
+#EXTINF:0 tvg-id="ext" group-title="Hindi Entertainment",DD National
 https://restv4-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/487/assetId/934700/assetType/media/assetFileId/15074548/contextType/PLAYBACK/isAltUrl/False/a.m3u8
 
 
-#EXTINF:0 tvg-id="DDNational.in" group-title="Hindi Entertainment",DD National HD
+#EXTINF:0 tvg-id="ext" group-title="Hindi Entertainment",DD National HD
 https://livectv.phando.com/8015/chunklist0.m3u8
-
 
 
 
