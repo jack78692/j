@@ -1554,7 +1554,7 @@ https://int.pogocast.xyz:8075/view/hls/xkEpSybwI9zATAdAlKV1XA/1700478846/supersp
 #EXTINF:0 tvg-id="ext" group-title="Sports",Viaplay Xtra 
 https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Hindi Channels",Star Sports 1 Hindi HD 
+#EXTINF:0 tvg-id="ext" group-title="Sports",Star Sports 1 Hindi HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
 http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2232.ts
 
