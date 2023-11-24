@@ -432,7 +432,8 @@ https://sanjibweb.me/paid/smtv2/index.m3u8?id=861
 #EXTINF:0 tvg-id="ext" group-title="Hindi kids", Chumbak TV
 https://livectv2.phando.com/8006/playlist.m3u8
 
-
+#EXTINF:0 tvg-id="ext" group-title="Hindi kids", Test
+https://livectv2.phando.com/8006/playlist.m3u8
 
 #### Hindi Music ####
 
